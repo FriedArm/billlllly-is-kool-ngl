@@ -9,7 +9,7 @@
     ],
     "worldGenType": "Normal world gen",
     "mainFillerBlock": {
-      "value": "Blocks.SAND#0"
+      "value": "Blocks.STONE#0"
     },
     "fluidBlock": {
       "value": "CUSTOM:Quicksand"
