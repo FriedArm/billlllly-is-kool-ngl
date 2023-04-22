@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/icewood_planks",
+    "particle": "billysmod:blocks/icewood_planks"
+  },
+  "render_type": "solid"
+}

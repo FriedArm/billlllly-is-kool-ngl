@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:IcewoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IcewoodStairs"
+    },
+    "name": "icewood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

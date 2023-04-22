@@ -3,6 +3,7 @@
     {
       "name": "FrozenBiome",
       "type": "biome",
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frozen_biome",
@@ -1166,12 +1167,601 @@
           "src/main/resources/data/billysmod/forge/biome_modifier/wild_chest_biome_modifier.json"
         ]
       }
+    },
+    {
+      "name": "WoodenArmor",
+      "type": "armor",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/wooden_armor_leggings.json",
+          "src/main/resources/assets/billysmod/models/item/wooden_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/wooden_armor_chestplate.json",
+          "src/main/java/net/mcreator/billysmod/item/WoodenArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/wooden_armor_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/wooden_armor_helmet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor_body_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/wooden_armor_body_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/wooden_armor_leggings_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/wooden_armor_boots_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/copper_armor_helmet.json",
+          "src/main/java/net/mcreator/billysmod/item/CopperArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/copper_armor_leggings.json",
+          "src/main/resources/assets/billysmod/models/item/copper_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/copper_armor_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_armor_helmet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_body_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_armor_body_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_armor_leggings_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_armor_boots_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/CopperPickaxeItem.java",
+          "src/main/resources/assets/billysmod/models/item/copper_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/copper_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/CopperAxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/CopperSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/copper_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/copper_shovel.json",
+          "src/main/java/net/mcreator/billysmod/item/CopperShovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/copper_hoe.json",
+          "src/main/java/net/mcreator/billysmod/item/CopperHoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_axe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_shovel_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/copper_hoe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/icewood_wood.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodWoodBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_wood.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/block/icewood_log.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_log.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_log.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodLogBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/icewood_planks.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_planks.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_planks.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodPlanksBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/icewood_leaves.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_leaves.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_leaves.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodLeavesBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/block/icewood_stairs.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_stairs.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodStairsBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_stairs_inner.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_stairs.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_stairs_outer.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/block/IcewoodSlabBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_slab_full.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_slab.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_slab_top.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_slab.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/blockstates/icewood_fence.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_inventory.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodFenceBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_post.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_fence.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/icewood_fence_gate.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_fence_gate.json",
+          "src/main/java/net/mcreator/billysmod/block/IcewoodFenceGateBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_wall.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_open.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_wall_open.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodPressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/block/IcewoodPressurePlateBlock.java",
+          "src/main/resources/assets/billysmod/blockstates/icewood_pressure_plate.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_pressure_plate.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_pressure_plate_down.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_button",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/block/IcewoodButtonBlock.java",
+          "src/main/resources/assets/billysmod/models/block/icewood_button_pressed.json",
+          "src/main/resources/assets/billysmod/blockstates/icewood_button.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_button.json",
+          "src/main/resources/assets/billysmod/models/item/icewood_button.json",
+          "src/main/resources/assets/billysmod/models/block/icewood_button_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodItemsTag",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_items_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/icewood_log.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodPlanksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_planks_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodPressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IcewoodStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icewood_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/icewood_stick_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.billysmod.copper_pickaxe": "Copper Pickaxe",
+      "block.billysmod.icewood_log": "Icewood Log",
+      "block.billysmod.icewood_pressure_plate": "Icewood Pressure Plate",
+      "item.billysmod.emerald_armor_boots": "Emerald Boots",
+      "item.billysmod.topaz_sword": "Topaz Sword",
+      "item.billysmod.rubi_shovel": "Ruby Shovel",
+      "item.billysmod.jade_armor_leggings": "Jade Leggings",
+      "item.billysmod.topaz_hoe": "Topaz Hoe",
+      "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
+      "item.billysmod.jade_axe": "Jade Axe",
+      "block.billysmod.icewood_leaves": "Icewood Leaves",
+      "item.billysmod.rubi_armor_boots": "Ruby Boots",
+      "block.billysmod.icewood_planks": "Icewood Planks",
+      "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
+      "item.billysmod.copper_axe": "Copper Axe",
+      "item.billysmod.jade_shovel": "Jade Shovel",
+      "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
+      "item.billysmod.jade": "Jade",
+      "item.billysmod.wooden_armor_boots": "Wooden Boots",
+      "item.billysmod.copper_armor_boots": "Copper Boots",
+      "item.billysmod.copper_armor_helmet": "Copper Helmet",
+      "item.billysmod.copper_shovel": "Copper Shovel",
+      "item.billysmod.jade_pickaxe": "Jade Pickaxe",
+      "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
+      "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
+      "item.billysmod.rubi_axe": "Ruby Axe",
+      "item.billysmod.emerald_sword": "Emerald Sword",
+      "block.billysmod.jade_ore": "Jade Ore",
+      "block.billysmod.icewood_slab": "Icewood Slab",
+      "item.billysmod.copper_armor_leggings": "Copper Leggings",
+      "block.billysmod.icewood_wood": "Icewood Wood",
+      "block.billysmod.jade_block": "Block of Jade",
+      "item.billysmod.emerald_hoe": "Emerald Hoe",
+      "item.billysmod.jade_hoe": "Jade Hoe",
       "item.billysmod.rubi_sword": "Ruby Sword",
       "item.billysmod.rubi_armor_chestplate": "Ruby Chestplate",
       "item.billysmod.topaz_armor_chestplate": "Topaz Chestplate",
@@ -1180,50 +1770,44 @@
       "item.billysmod.ruby": "Ruby",
       "item.billysmod.rubi_hoe": "Ruby Hoe",
       "block.billysmod.topaz_block": "Block of Topaz",
-      "item.billysmod.emerald_armor_boots": "Emerald Boots",
-      "item.billysmod.topaz_sword": "Topaz Sword",
-      "item.billysmod.rubi_shovel": "Ruby Shovel",
       "item.billysmod.rubi_armor_leggings": "Ruby Leggings",
+      "item.billysmod.copper_hoe": "Copper Hoe",
       "item.billysmod.emerald_axe": "Emerald Axe",
-      "item.billysmod.topaz_hoe": "Topaz Hoe",
-      "item.billysmod.jade_armor_leggings": "Jade Leggings",
-      "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
-      "item.billysmod.jade_axe": "Jade Axe",
-      "item.billysmod.rubi_armor_boots": "Ruby Boots",
-      "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
+      "item.billysmod.copper_sword": "Copper Sword",
+      "item.billysmod.wooden_armor_helmet": "Wooden Helmet",
       "item.billysmod.topaz_armor_helmet": "Topaz Helmet",
       "block.billysmod.ruby_ore": "Ruby Ore",
       "item.billysmod.topaz_axe": "Topaz Axe",
-      "item.billysmod.jade_shovel": "Jade Shovel",
+      "block.billysmod.icewood_stairs": "Icewood Stairs",
       "item.billysmod.emerald_armor_chestplate": "Emerald Chestplate",
+      "block.billysmod.icewood_button": "Icewood Button",
       "item.billysmod.the_frozen_dimension": "The Frozen Orb",
-      "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
-      "item.billysmod.jade": "Jade",
       "item.billysmod.emerald_shovel": "Emerald Shovel",
+      "block.billysmod.icewood_fence": "Icewood Fence",
       "item.billysmod.jade_sword": "Jade Sword",
       "item.billysmod.topaz_armor_leggings": "Topaz Leggings",
       "item.billysmod.rubi_pickaxe": "Ruby Pickaxe",
-      "item.billysmod.jade_pickaxe": "Jade Pickaxe",
-      "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
-      "item.billysmod.emerald_sword": "Emerald Sword",
-      "item.billysmod.rubi_axe": "Ruby Axe",
+      "item.billysmod.wooden_armor_chestplate": "Wooden Chestplate",
       "item.billysmod.topaz_armor_boots": "Topaz Boots",
-      "block.billysmod.jade_ore": "Jade Ore",
       "item.billysmod.jade_armor_helmet": "Jade Helmet",
       "item.billysmod.jade_armor_chestplate": "Jade Chestplate",
-      "block.billysmod.jade_block": "Block of Jade",
-      "item.billysmod.emerald_hoe": "Emerald Hoe",
       "block.billysmod.ruby_block": "Block of Ruby",
       "item.billysmod.topaz": "Topaz",
       "biome.billysmod.frozen_biome": "Frozen Biome",
+      "block.billysmod.icewood_fence_gate": "Icewood Fence Gate",
+      "item.billysmod.copper_armor_chestplate": "Copper Chestplate",
       "item.billysmod.topaz_shovel": "Topaz Shovel",
-      "item.billysmod.jade_hoe": "Jade Hoe",
       "block.billysmod.topaz_ore": "Topaz Ore"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Ruby",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "billysmod",

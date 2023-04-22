@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:icewood_planks"
+    },
+    "3": {
+      "item": "billysmod:icewood_planks"
+    },
+    "4": {
+      "item": "billysmod:icewood_planks"
+    },
+    "6": {
+      "item": "billysmod:icewood_planks"
+    },
+    "7": {
+      "item": "billysmod:icewood_planks"
+    },
+    "8": {
+      "item": "billysmod:icewood_planks"
+    }
+  },
+  "result": {
+    "item": "billysmod:icewood_stairs",
+    "count": 4
+  }
+}

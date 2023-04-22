@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "billysmod:block/icewood_slab"
+    },
+    "type=top": {
+      "model": "billysmod:block/icewood_slab_top"
+    },
+    "type=double": {
+      "model": "billysmod:block/icewood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "billysmod:blocks/icewood_planks"
+  },
+  "render_type": "solid"
+}
