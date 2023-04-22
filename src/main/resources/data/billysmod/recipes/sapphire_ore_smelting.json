@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2.7999999999999994,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "billysmod:sapphire_ore"
+  },
+  "result": "billysmod:sapphire"
+}

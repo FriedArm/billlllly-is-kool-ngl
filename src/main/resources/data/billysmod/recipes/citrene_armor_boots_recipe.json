@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:citrene"
+    },
+    "2": {
+      "item": "billysmod:citrene"
+    },
+    "3": {
+      "item": "billysmod:citrene"
+    },
+    "5": {
+      "item": "billysmod:citrene"
+    }
+  },
+  "result": {
+    "item": "billysmod:citrene_armor_boots",
+    "count": 1
+  }
+}

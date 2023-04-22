@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/garnet_ore_block",
+    "particle": "billysmod:blocks/garnet_ore_block"
+  },
+  "render_type": "solid"
+}

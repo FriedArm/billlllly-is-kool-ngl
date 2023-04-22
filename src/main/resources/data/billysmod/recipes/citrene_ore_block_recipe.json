@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:citrene"
+    },
+    "1": {
+      "item": "billysmod:citrene"
+    },
+    "2": {
+      "item": "billysmod:citrene"
+    },
+    "3": {
+      "item": "billysmod:citrene"
+    },
+    "4": {
+      "item": "billysmod:citrene"
+    },
+    "5": {
+      "item": "billysmod:citrene"
+    },
+    "6": {
+      "item": "billysmod:citrene"
+    },
+    "7": {
+      "item": "billysmod:citrene"
+    },
+    "8": {
+      "item": "billysmod:citrene"
+    }
+  },
+  "result": {
+    "item": "billysmod:citrene_block",
+    "count": 1
+  }
+}

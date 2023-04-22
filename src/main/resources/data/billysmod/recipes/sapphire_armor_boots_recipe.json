@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:sapphire"
+    },
+    "2": {
+      "item": "billysmod:sapphire"
+    },
+    "3": {
+      "item": "billysmod:sapphire"
+    },
+    "5": {
+      "item": "billysmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "billysmod:sapphire_armor_boots",
+    "count": 1
+  }
+}

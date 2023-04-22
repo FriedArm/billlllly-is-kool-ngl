@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "billysmod:aquamarine_block"
+    }
+  ],
+  "result": {
+    "item": "billysmod:aquamarine",
+    "count": 9
+  }
+}

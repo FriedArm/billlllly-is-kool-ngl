@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:aquamarine"
+    },
+    "2": {
+      "item": "billysmod:aquamarine"
+    },
+    "3": {
+      "item": "billysmod:aquamarine"
+    },
+    "4": {
+      "item": "billysmod:aquamarine"
+    },
+    "5": {
+      "item": "billysmod:aquamarine"
+    },
+    "6": {
+      "item": "billysmod:aquamarine"
+    },
+    "7": {
+      "item": "billysmod:aquamarine"
+    },
+    "8": {
+      "item": "billysmod:aquamarine"
+    }
+  },
+  "result": {
+    "item": "billysmod:aquamarine_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "billysmod:garnet_block"
+    }
+  ],
+  "result": {
+    "item": "billysmod:garnet",
+    "count": 9
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:citrene"
+    },
+    "1": {
+      "item": "billysmod:citrene"
+    },
+    "2": {
+      "item": "billysmod:citrene"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "billysmod:citrene_pickaxe",
+    "count": 1
+  }
+}

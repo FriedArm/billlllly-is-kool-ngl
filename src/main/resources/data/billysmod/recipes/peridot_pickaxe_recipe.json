@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:peridot"
+    },
+    "1": {
+      "item": "billysmod:peridot"
+    },
+    "2": {
+      "item": "billysmod:peridot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "billysmod:peridot_pickaxe",
+    "count": 1
+  }
+}

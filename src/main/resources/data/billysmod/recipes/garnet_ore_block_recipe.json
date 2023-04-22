@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:garnet"
+    },
+    "1": {
+      "item": "billysmod:garnet"
+    },
+    "2": {
+      "item": "billysmod:garnet"
+    },
+    "3": {
+      "item": "billysmod:garnet"
+    },
+    "4": {
+      "item": "billysmod:garnet"
+    },
+    "5": {
+      "item": "billysmod:garnet"
+    },
+    "6": {
+      "item": "billysmod:garnet"
+    },
+    "7": {
+      "item": "billysmod:garnet"
+    },
+    "8": {
+      "item": "billysmod:garnet"
+    }
+  },
+  "result": {
+    "item": "billysmod:garnet_block",
+    "count": 1
+  }
+}

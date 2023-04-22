@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.1199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "billysmod:alunimium_ore"
+  },
+  "result": "billysmod:alunimium_ingot"
+}

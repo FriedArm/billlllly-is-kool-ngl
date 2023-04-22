@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.68,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "billysmod:peridot_ore"
+  },
+  "result": "billysmod:peridot"
+}

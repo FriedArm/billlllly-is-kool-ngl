@@ -31,6 +31,8 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.billysmod.init.BillysmodModTabs;
 import net.mcreator.billysmod.init.BillysmodModItems;
+import net.mcreator.billysmod.init.BillysmodModFluids;
+import net.mcreator.billysmod.init.BillysmodModFluidTypes;
 import net.mcreator.billysmod.init.BillysmodModFeatures;
 import net.mcreator.billysmod.init.BillysmodModBlocks;
 import net.mcreator.billysmod.init.BillysmodModBiomes;
@@ -58,6 +60,8 @@ public class BillysmodMod {
 		BillysmodModItems.REGISTRY.register(bus);
 
 		BillysmodModFeatures.REGISTRY.register(bus);
+		BillysmodModFluids.REGISTRY.register(bus);
+		BillysmodModFluidTypes.REGISTRY.register(bus);
 
 		BillysmodModBiomes.REGISTRY.register(bus);
 	}

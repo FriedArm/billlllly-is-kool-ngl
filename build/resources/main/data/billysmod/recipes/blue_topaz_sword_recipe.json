@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:blue_topaz"
+    },
+    "1": {
+      "item": "billysmod:blue_topaz"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "billysmod:blue_topaz_sword",
+    "count": 1
+  }
+}

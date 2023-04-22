@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:titanium_ingot"
+    },
+    "2": {
+      "item": "billysmod:titanium_ingot"
+    },
+    "3": {
+      "item": "billysmod:titanium_ingot"
+    },
+    "5": {
+      "item": "billysmod:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "billysmod:titanium_armor_boots",
+    "count": 1
+  }
+}

@@ -34,7 +34,7 @@
         "Name": "minecraft:sand"
       },
       "default_fluid": {
-        "Name": "minecraft:lava",
+        "Name": "billysmod:quicksand",
         "Properties": {
           "level": "0"
         }

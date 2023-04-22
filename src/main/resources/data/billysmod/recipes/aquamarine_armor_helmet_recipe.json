@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:aquamarine"
+    },
+    "1": {
+      "item": "billysmod:aquamarine"
+    },
+    "2": {
+      "item": "billysmod:aquamarine"
+    },
+    "3": {
+      "item": "billysmod:aquamarine"
+    },
+    "5": {
+      "item": "billysmod:aquamarine"
+    }
+  },
+  "result": {
+    "item": "billysmod:aquamarine_armor_helmet",
+    "count": 1
+  }
+}

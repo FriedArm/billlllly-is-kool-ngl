@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:peridot"
+    },
+    "2": {
+      "item": "billysmod:peridot"
+    },
+    "3": {
+      "item": "billysmod:peridot"
+    },
+    "4": {
+      "item": "billysmod:peridot"
+    },
+    "5": {
+      "item": "billysmod:peridot"
+    },
+    "6": {
+      "item": "billysmod:peridot"
+    },
+    "7": {
+      "item": "billysmod:peridot"
+    },
+    "8": {
+      "item": "billysmod:peridot"
+    }
+  },
+  "result": {
+    "item": "billysmod:peridot_armor_chestplate",
+    "count": 1
+  }
+}

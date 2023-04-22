@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlueTopaz"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueTopazArmor.legs"
+    },
+    "name": "blue_topaz_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

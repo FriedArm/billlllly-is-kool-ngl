@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "billysmod:blue_topaz_ore"
+  },
+  "result": "billysmod:blue_topaz"
+}

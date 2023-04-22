@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "billysmod:alunimium_block"
+    }
+  ],
+  "result": {
+    "item": "billysmod:alunimium_ingot",
+    "count": 9
+  }
+}

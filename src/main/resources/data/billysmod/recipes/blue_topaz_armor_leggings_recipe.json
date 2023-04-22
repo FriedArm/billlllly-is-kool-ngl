@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:blue_topaz"
+    },
+    "1": {
+      "item": "billysmod:blue_topaz"
+    },
+    "2": {
+      "item": "billysmod:blue_topaz"
+    },
+    "3": {
+      "item": "billysmod:blue_topaz"
+    },
+    "5": {
+      "item": "billysmod:blue_topaz"
+    },
+    "6": {
+      "item": "billysmod:blue_topaz"
+    },
+    "8": {
+      "item": "billysmod:blue_topaz"
+    }
+  },
+  "result": {
+    "item": "billysmod:blue_topaz_armor_leggings",
+    "count": 1
+  }
+}

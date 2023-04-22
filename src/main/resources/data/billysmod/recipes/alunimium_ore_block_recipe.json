@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "1": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "2": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "3": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "4": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "5": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "6": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "7": {
+      "item": "billysmod:alunimium_ingot"
+    },
+    "8": {
+      "item": "billysmod:alunimium_ingot"
+    }
+  },
+  "result": {
+    "item": "billysmod:alunimium_block",
+    "count": 1
+  }
+}

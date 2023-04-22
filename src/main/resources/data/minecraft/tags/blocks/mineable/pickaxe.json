@@ -6,6 +6,22 @@
     "billysmod:topaz_ore",
     "billysmod:topaz_block",
     "billysmod:jade_ore",
-    "billysmod:jade_block"
+    "billysmod:jade_block",
+    "billysmod:titanium_ore",
+    "billysmod:titanium_block",
+    "billysmod:garnet_ore",
+    "billysmod:garnet_block",
+    "billysmod:aquamarine_ore",
+    "billysmod:aquamarine_block",
+    "billysmod:peridot_ore",
+    "billysmod:peridot_block",
+    "billysmod:sapphire_ore",
+    "billysmod:sapphire_block",
+    "billysmod:citrene_ore",
+    "billysmod:citrene_block",
+    "billysmod:blue_topaz_ore",
+    "billysmod:blue_topaz_block",
+    "billysmod:alunimium_ore",
+    "billysmod:alunimium_block"
   ]
 }

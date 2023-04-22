@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "billysmod:peridot_block"
+    }
+  ],
+  "result": {
+    "item": "billysmod:peridot",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/titanium_ore",
+    "particle": "billysmod:blocks/titanium_ore"
+  },
+  "render_type": "solid"
+}
