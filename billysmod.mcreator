@@ -1807,6 +1807,30 @@
         ]
       },
       "path": "~/Desert Dimension"
+    },
+    {
+      "name": "BillysMod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "billys_mod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MeltedOrbRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melted_orb_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/melted_orb_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension"
     }
   ],
   "variable_elements": [],
@@ -1836,6 +1860,7 @@
       "item.billysmod.copper_armor_helmet": "Copper Helmet",
       "item.billysmod.copper_shovel": "Copper Shovel",
       "block.billysmod.desert_pressure_plate": "Desert Pressure Plate",
+      "itemGroup.tabbillys_mod": "Billys Mod",
       "item.billysmod.jade_pickaxe": "Jade Pickaxe",
       "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
       "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
