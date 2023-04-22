@@ -34,7 +34,10 @@
         "Name": "minecraft:sand"
       },
       "default_fluid": {
-        "Name": "minecraft:air"
+        "Name": "minecraft:lava",
+        "Properties": {
+          "level": "0"
+        }
       },
       "spawn_target": [],
       "noise": {

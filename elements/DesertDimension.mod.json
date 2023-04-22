@@ -12,7 +12,7 @@
       "value": "Blocks.SAND#0"
     },
     "fluidBlock": {
-      "value": "Blocks.AIR"
+      "value": "Blocks.LAVA"
     },
     "airColor": {
       "value": -103,
