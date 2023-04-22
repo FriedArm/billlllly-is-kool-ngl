@@ -16,6 +16,7 @@ import net.mcreator.billysmod.world.features.ores.RubyOreFeature;
 import net.mcreator.billysmod.world.features.ores.JadeOreFeature;
 import net.mcreator.billysmod.world.features.WildChestFeature;
 import net.mcreator.billysmod.world.features.SnowHouseFeature;
+import net.mcreator.billysmod.world.features.RuinedHouseFeature;
 import net.mcreator.billysmod.world.features.FrozenHouseFeature;
 import net.mcreator.billysmod.BillysmodMod;
 
@@ -28,4 +29,5 @@ public class BillysmodModFeatures {
 	public static final RegistryObject<Feature<?>> JADE_ORE = REGISTRY.register("jade_ore", JadeOreFeature::feature);
 	public static final RegistryObject<Feature<?>> SNOW_HOUSE = REGISTRY.register("snow_house", SnowHouseFeature::feature);
 	public static final RegistryObject<Feature<?>> WILD_CHEST = REGISTRY.register("wild_chest", WildChestFeature::feature);
+	public static final RegistryObject<Feature<?>> RUINED_HOUSE = REGISTRY.register("ruined_house", RuinedHouseFeature::feature);
 }

@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "billysmod:blocks/icewood_planks",
-    "top": "billysmod:blocks/icewood_planks",
-    "side": "billysmod:blocks/icewood_planks"
-  },
-  "render_type": "solid"
-}

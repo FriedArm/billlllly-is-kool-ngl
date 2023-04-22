@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "billysmod:icewood_wood",
-    "billysmod:icewood_log",
-    "billysmod:icewood_planks"
+    "billysmod:desert_wood",
+    "billysmod:desert_log",
+    "billysmod:desert_planks"
   ]
 }

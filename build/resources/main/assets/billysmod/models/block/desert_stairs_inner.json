@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "billysmod:blocks/desert_planks",
+    "top": "billysmod:blocks/desert_planks",
+    "side": "billysmod:blocks/desert_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "billysmod:block/desert_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "billysmod:block/desert_dimension_portal_ns"
+    }
+  }
+}

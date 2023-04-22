@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:desert_planks"
+    },
+    "1": {
+      "item": "billysmod:desert_planks"
+    },
+    "2": {
+      "item": "billysmod:desert_planks"
+    }
+  },
+  "result": {
+    "item": "billysmod:desert_slab",
+    "count": 6
+  }
+}

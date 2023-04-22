@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "billysmod:block/desert_slab"
+    },
+    "type=top": {
+      "model": "billysmod:block/desert_slab_top"
+    },
+    "type=double": {
+      "model": "billysmod:block/desert_slab_full"
+    }
+  }
+}

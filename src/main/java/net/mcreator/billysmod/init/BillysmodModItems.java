@@ -42,6 +42,7 @@ import net.mcreator.billysmod.item.EmeraldPickAxeItem;
 import net.mcreator.billysmod.item.EmeraldHoeItem;
 import net.mcreator.billysmod.item.EmeraldAxeItem;
 import net.mcreator.billysmod.item.EmeraldArmorItem;
+import net.mcreator.billysmod.item.DesertDimensionItem;
 import net.mcreator.billysmod.item.CopperSwordItem;
 import net.mcreator.billysmod.item.CopperShovelItem;
 import net.mcreator.billysmod.item.CopperPickaxeItem;
@@ -111,16 +112,18 @@ public class BillysmodModItems {
 	public static final RegistryObject<Item> COPPER_SWORD = REGISTRY.register("copper_sword", () -> new CopperSwordItem());
 	public static final RegistryObject<Item> COPPER_SHOVEL = REGISTRY.register("copper_shovel", () -> new CopperShovelItem());
 	public static final RegistryObject<Item> COPPER_HOE = REGISTRY.register("copper_hoe", () -> new CopperHoeItem());
-	public static final RegistryObject<Item> ICEWOOD_WOOD = block(BillysmodModBlocks.ICEWOOD_WOOD, CreativeModeTab.TAB_BUILDING_BLOCKS);
-	public static final RegistryObject<Item> ICEWOOD_LOG = block(BillysmodModBlocks.ICEWOOD_LOG, CreativeModeTab.TAB_BUILDING_BLOCKS);
-	public static final RegistryObject<Item> ICEWOOD_PLANKS = block(BillysmodModBlocks.ICEWOOD_PLANKS, CreativeModeTab.TAB_BUILDING_BLOCKS);
-	public static final RegistryObject<Item> ICEWOOD_LEAVES = block(BillysmodModBlocks.ICEWOOD_LEAVES, CreativeModeTab.TAB_DECORATIONS);
-	public static final RegistryObject<Item> ICEWOOD_STAIRS = block(BillysmodModBlocks.ICEWOOD_STAIRS, CreativeModeTab.TAB_BUILDING_BLOCKS);
-	public static final RegistryObject<Item> ICEWOOD_SLAB = block(BillysmodModBlocks.ICEWOOD_SLAB, CreativeModeTab.TAB_BUILDING_BLOCKS);
-	public static final RegistryObject<Item> ICEWOOD_FENCE = block(BillysmodModBlocks.ICEWOOD_FENCE, CreativeModeTab.TAB_DECORATIONS);
-	public static final RegistryObject<Item> ICEWOOD_FENCE_GATE = block(BillysmodModBlocks.ICEWOOD_FENCE_GATE, CreativeModeTab.TAB_REDSTONE);
-	public static final RegistryObject<Item> ICEWOOD_PRESSURE_PLATE = block(BillysmodModBlocks.ICEWOOD_PRESSURE_PLATE, CreativeModeTab.TAB_REDSTONE);
-	public static final RegistryObject<Item> ICEWOOD_BUTTON = block(BillysmodModBlocks.ICEWOOD_BUTTON, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> WIRE = block(BillysmodModBlocks.WIRE, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_DIMENSION = REGISTRY.register("desert_dimension", () -> new DesertDimensionItem());
+	public static final RegistryObject<Item> DESERT_WOOD = block(BillysmodModBlocks.DESERT_WOOD, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_LOG = block(BillysmodModBlocks.DESERT_LOG, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_PLANKS = block(BillysmodModBlocks.DESERT_PLANKS, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_LEAVES = block(BillysmodModBlocks.DESERT_LEAVES, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> DESERT_STAIRS = block(BillysmodModBlocks.DESERT_STAIRS, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_SLAB = block(BillysmodModBlocks.DESERT_SLAB, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> DESERT_FENCE = block(BillysmodModBlocks.DESERT_FENCE, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> DESERT_FENCE_GATE = block(BillysmodModBlocks.DESERT_FENCE_GATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> DESERT_PRESSURE_PLATE = block(BillysmodModBlocks.DESERT_PRESSURE_PLATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> DESERT_BUTTON = block(BillysmodModBlocks.DESERT_BUTTON, CreativeModeTab.TAB_BUILDING_BLOCKS);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_side",
-  "textures": {
-    "texture": "billysmod:blocks/icewood_planks",
-    "particle": "billysmod:blocks/icewood_planks"
-  },
-  "render_type": "solid"
-}

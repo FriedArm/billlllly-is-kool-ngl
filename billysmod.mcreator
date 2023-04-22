@@ -11,7 +11,8 @@
         "files": [
           "src/main/java/net/mcreator/billysmod/world/biome/FrozenBiomeBiome.java"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "TheFrozenDimension",
@@ -34,7 +35,8 @@
           "src/main/resources/assets/billysmod/models/block/the_frozen_dimension_portal_ew.json",
           "src/main/resources/assets/billysmod/models/block/the_frozen_dimension_portal_ns.json"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "FrozenOrb",
@@ -47,7 +49,8 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/frozen_orb.json"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "FrozenBaseChest",
@@ -60,7 +63,8 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/chests/frozen_base_chest.json"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "FrozenHouse",
@@ -74,7 +78,8 @@
           "src/main/resources/data/billysmod/forge/biome_modifier/frozen_house_biome_modifier.json",
           "src/main/java/net/mcreator/billysmod/world/features/FrozenHouseFeature.java"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "EmeraldSword",
@@ -1214,7 +1219,8 @@
           "src/main/resources/data/billysmod/forge/biome_modifier/snow_house_biome_modifier.json",
           "src/main/java/net/mcreator/billysmod/world/features/SnowHouseFeature.java"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "Chest",
@@ -1241,7 +1247,8 @@
           "src/main/java/net/mcreator/billysmod/world/features/WildChestFeature.java",
           "src/main/resources/data/billysmod/forge/biome_modifier/wild_chest_biome_modifier.json"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "WoodenArmor",
@@ -1537,325 +1544,267 @@
       "path": "~/Copper"
     },
     {
-      "name": "IcewoodWood",
+      "name": "Wire",
       "type": "block",
       "sortid": 107,
       "compiles": true,
-      "locked_code": false,
-      "registry_name": "icewood_wood",
+      "locked_code": true,
+      "registry_name": "wire",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/icewood_wood.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodWoodBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_wood.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_wood.json"
+          "src/main/resources/assets/billysmod/models/block/wire.json",
+          "src/main/java/net/mcreator/billysmod/block/WireBlock.java",
+          "src/main/resources/assets/billysmod/blockstates/wire.json",
+          "src/main/resources/assets/billysmod/models/item/wire.json"
         ]
       },
-      "path": "~/Icewood"
+      "path": "~/Copper"
     },
     {
-      "name": "IcewoodLog",
-      "type": "block",
+      "name": "DesertDimension",
+      "type": "dimension",
       "sortid": 108,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_log",
+      "registry_name": "desert_dimension",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/block/icewood_log.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_log.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_log.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodLogBlock.java"
+          "src/main/java/net/mcreator/billysmod/world/teleporter/DesertDimensionPortalShape.java",
+          "src/main/resources/assets/billysmod/models/item/desert_dimension.json",
+          "src/main/java/net/mcreator/billysmod/world/teleporter/DesertDimensionTeleporter.java",
+          "src/main/java/net/mcreator/billysmod/item/DesertDimensionItem.java",
+          "src/main/resources/assets/billysmod/models/block/desert_dimension_portal_ew.json",
+          "src/main/resources/data/billysmod/dimension_type/desert_dimension.json",
+          "src/main/resources/data/billysmod/dimension/desert_dimension.json",
+          "src/main/resources/assets/billysmod/blockstates/desert_dimension_portal.json",
+          "src/main/java/net/mcreator/billysmod/block/DesertDimensionPortalBlock.java",
+          "src/main/java/net/mcreator/billysmod/world/dimension/DesertDimensionDimension.java",
+          "src/main/resources/assets/billysmod/models/block/desert_dimension_portal_ns.json"
         ]
       },
-      "path": "~/Icewood"
+      "path": "~/Desert Dimension"
     },
     {
-      "name": "IcewoodPlanks",
-      "type": "block",
+      "name": "DesertDimensionBiome",
+      "type": "biome",
       "sortid": 109,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_planks",
+      "registry_name": "desert_dimension_biome",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/icewood_planks.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_planks.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_planks.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodPlanksBlock.java"
+          "src/main/java/net/mcreator/billysmod/world/biome/DesertDimensionBiomeBiome.java"
         ]
       },
-      "path": "~/Icewood"
+      "path": "~/Desert Dimension"
     },
     {
-      "name": "IcewoodLeaves",
-      "type": "block",
+      "name": "RuinedHouse",
+      "type": "structure",
       "sortid": 110,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_leaves",
+      "registry_name": "ruined_house",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/icewood_leaves.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_leaves.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_leaves.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodLeavesBlock.java"
+          "src/main/resources/data/billysmod/forge/biome_modifier/ruined_house_biome_modifier.json",
+          "src/main/java/net/mcreator/billysmod/world/features/RuinedHouseFeature.java"
         ]
       },
-      "path": "~/Icewood"
+      "path": "~/Desert Dimension"
     },
     {
-      "name": "IcewoodStairs",
-      "type": "block",
+      "name": "RuinedHouseLootChest",
+      "type": "loottable",
       "sortid": 111,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_stairs",
+      "registry_name": "ruined_house_loot_chest",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/block/icewood_stairs.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_stairs.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodStairsBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_stairs_inner.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_stairs.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_stairs_outer.json"
+          "src/main/resources/data/billysmod/loot_tables/chests/ruined_house_loot_chest.json"
         ]
       },
-      "path": "~/Icewood"
+      "path": "~/Desert Dimension"
     },
     {
-      "name": "IcewoodSlab",
+      "name": "DesertWood",
       "type": "block",
       "sortid": 112,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_slab",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/billysmod/block/IcewoodSlabBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_slab_full.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_slab.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_slab_top.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_slab.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_slab.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_wood",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodFence",
+      "name": "DesertLog",
       "type": "block",
       "sortid": 113,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_fence",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/billysmod/blockstates/icewood_fence.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_inventory.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodFenceBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_post.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_fence.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_log",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodFenceGate",
+      "name": "DesertPlanks",
       "type": "block",
       "sortid": 114,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_fence_gate",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/billysmod/models/item/icewood_fence_gate.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_fence_gate.json",
-          "src/main/java/net/mcreator/billysmod/block/IcewoodFenceGateBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_wall.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_open.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_fence_gate_wall_open.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_planks",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodPressurePlate",
+      "name": "DesertLeaves",
       "type": "block",
       "sortid": 115,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_pressure_plate",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/billysmod/block/IcewoodPressurePlateBlock.java",
-          "src/main/resources/assets/billysmod/blockstates/icewood_pressure_plate.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_pressure_plate.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_pressure_plate_down.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_pressure_plate.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_leaves",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodButton",
+      "name": "DesertStairs",
       "type": "block",
       "sortid": 116,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_button",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/billysmod/block/IcewoodButtonBlock.java",
-          "src/main/resources/assets/billysmod/models/block/icewood_button_pressed.json",
-          "src/main/resources/assets/billysmod/blockstates/icewood_button.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_button.json",
-          "src/main/resources/assets/billysmod/models/item/icewood_button.json",
-          "src/main/resources/assets/billysmod/models/block/icewood_button_inventory.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_stairs",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodItemsTag",
-      "type": "tag",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "icewood_items_tag",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/forge/tags/items/icewood_log.json"
-        ]
-      },
-      "path": "~/Icewood"
-    },
-    {
-      "name": "IcewoodWoodRecipe",
-      "type": "recipe",
+      "name": "DesertSlab",
+      "type": "block",
       "sortid": 117,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_wood_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_wood_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_slab",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodPlanksRecipe",
-      "type": "recipe",
+      "name": "DesertFence",
+      "type": "block",
       "sortid": 118,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_planks_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_planks_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_fence",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodStairsRecipe",
-      "type": "recipe",
+      "name": "DesertFenceGate",
+      "type": "block",
       "sortid": 119,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_stairs_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_stairs_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_fence_gate",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodSlabRecipe",
-      "type": "recipe",
+      "name": "DesertPressurePlate",
+      "type": "block",
       "sortid": 120,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_slab_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_slab_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_pressure_plate",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodFenceRecipe",
-      "type": "recipe",
+      "name": "DesertButton",
+      "type": "block",
       "sortid": 121,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_fence_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_fence_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_button",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodFenceGateRecipe",
+      "name": "DesertItemsTag",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_items_tag",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertWoodRecipe",
       "type": "recipe",
       "sortid": 122,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_fence_gate_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_fence_gate_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_wood_recipe",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodPressurePlateRecipe",
+      "name": "DesertPlanksRecipe",
       "type": "recipe",
       "sortid": 123,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_pressure_plate_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_pressure_plate_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_planks_recipe",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodButtonRecipe",
+      "name": "DesertStairsRecipe",
       "type": "recipe",
       "sortid": 124,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_button_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_button_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_stairs_recipe",
+      "path": "~/Desert Dimension/Wood"
     },
     {
-      "name": "IcewoodStickRecipe",
+      "name": "DesertSlabRecipe",
       "type": "recipe",
       "sortid": 125,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "icewood_stick_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/recipes/icewood_stick_recipe.json"
-        ]
-      },
-      "path": "~/Icewood"
+      "registry_name": "desert_slab_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFenceRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence_gate_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_pressure_plate_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertButtonRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_button_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertStickRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_stick_recipe",
+      "path": "~/Desert Dimension/Wood"
     }
   ],
   "variable_elements": [],
@@ -1863,8 +1812,6 @@
   "language_map": {
     "en_us": {
       "item.billysmod.copper_pickaxe": "Copper Pickaxe",
-      "block.billysmod.icewood_log": "Icewood Log",
-      "block.billysmod.icewood_pressure_plate": "Icewood Pressure Plate",
       "item.billysmod.emerald_armor_boots": "Emerald Boots",
       "item.billysmod.topaz_sword": "Topaz Sword",
       "item.billysmod.rubi_shovel": "Ruby Shovel",
@@ -1872,38 +1819,44 @@
       "item.billysmod.topaz_hoe": "Topaz Hoe",
       "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
       "item.billysmod.jade_axe": "Jade Axe",
-      "block.billysmod.icewood_leaves": "Icewood Leaves",
+      "block.billysmod.desert_fence_gate": "Desert Fence Gate",
       "item.billysmod.rubi_armor_boots": "Ruby Boots",
-      "block.billysmod.icewood_planks": "Icewood Planks",
       "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
       "item.billysmod.copper_axe": "Copper Axe",
+      "biome.billysmod.desert_dimension_biome": "Desert Dimension Biome",
+      "block.billysmod.wire": "Wire",
       "item.billysmod.jade_shovel": "Jade Shovel",
+      "block.billysmod.desert_button": "Desert Button",
       "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
       "item.billysmod.jade": "Jade",
       "item.billysmod.wooden_armor_boots": "Wooden Boots",
       "item.billysmod.copper_armor_boots": "Copper Boots",
       "item.billysmod.copper_armor_helmet": "Copper Helmet",
       "item.billysmod.copper_shovel": "Copper Shovel",
+      "block.billysmod.desert_pressure_plate": "Desert Pressure Plate",
       "item.billysmod.jade_pickaxe": "Jade Pickaxe",
       "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
       "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
-      "item.billysmod.rubi_axe": "Ruby Axe",
       "item.billysmod.emerald_sword": "Emerald Sword",
+      "item.billysmod.rubi_axe": "Ruby Axe",
+      "block.billysmod.desert_log": "Desert Log",
       "block.billysmod.jade_ore": "Jade Ore",
-      "block.billysmod.icewood_slab": "Icewood Slab",
       "item.billysmod.copper_armor_leggings": "Copper Leggings",
-      "block.billysmod.icewood_wood": "Icewood Wood",
+      "block.billysmod.desert_wood": "Desert Wood",
       "block.billysmod.jade_block": "Block of Jade",
+      "block.billysmod.desert_slab": "Desert Slab",
       "item.billysmod.emerald_hoe": "Emerald Hoe",
       "item.billysmod.jade_hoe": "Jade Hoe",
-      "item.billysmod.rubi_sword": "Ruby Sword",
-      "item.billysmod.rubi_armor_chestplate": "Ruby Chestplate",
       "item.billysmod.topaz_armor_chestplate": "Topaz Chestplate",
       "item.billysmod.jade_armor_boots": "Jade Boots",
+      "item.billysmod.rubi_sword": "Ruby Sword",
+      "item.billysmod.rubi_armor_chestplate": "Ruby Chestplate",
+      "block.billysmod.desert_fence": "Desert Fence",
       "item.billysmod.emerald_armor_leggings": "Emerald Leggings",
+      "block.billysmod.desert_leaves": "Desert Leaves",
       "item.billysmod.ruby": "Ruby",
-      "item.billysmod.rubi_hoe": "Ruby Hoe",
       "block.billysmod.topaz_block": "Block of Topaz",
+      "item.billysmod.rubi_hoe": "Ruby Hoe",
       "item.billysmod.rubi_armor_leggings": "Ruby Leggings",
       "item.billysmod.copper_hoe": "Copper Hoe",
       "item.billysmod.emerald_axe": "Emerald Axe",
@@ -1911,24 +1864,23 @@
       "item.billysmod.wooden_armor_helmet": "Wooden Helmet",
       "item.billysmod.topaz_armor_helmet": "Topaz Helmet",
       "block.billysmod.ruby_ore": "Ruby Ore",
+      "block.billysmod.desert_stairs": "Desert Stairs",
       "item.billysmod.topaz_axe": "Topaz Axe",
-      "block.billysmod.icewood_stairs": "Icewood Stairs",
       "item.billysmod.emerald_armor_chestplate": "Emerald Chestplate",
-      "block.billysmod.icewood_button": "Icewood Button",
+      "block.billysmod.desert_planks": "Desert Planks",
       "item.billysmod.the_frozen_dimension": "The Frozen Orb",
       "item.billysmod.emerald_shovel": "Emerald Shovel",
-      "block.billysmod.icewood_fence": "Icewood Fence",
       "item.billysmod.jade_sword": "Jade Sword",
       "item.billysmod.topaz_armor_leggings": "Topaz Leggings",
       "item.billysmod.rubi_pickaxe": "Ruby Pickaxe",
       "item.billysmod.wooden_armor_chestplate": "Wooden Chestplate",
       "item.billysmod.topaz_armor_boots": "Topaz Boots",
+      "item.billysmod.desert_dimension": "Melted Orb",
       "item.billysmod.jade_armor_helmet": "Jade Helmet",
       "item.billysmod.jade_armor_chestplate": "Jade Chestplate",
       "block.billysmod.ruby_block": "Block of Ruby",
       "item.billysmod.topaz": "Topaz",
       "biome.billysmod.frozen_biome": "Frozen Biome",
-      "block.billysmod.icewood_fence_gate": "Icewood Fence Gate",
       "item.billysmod.copper_armor_chestplate": "Copper Chestplate",
       "item.billysmod.topaz_shovel": "Topaz Shovel",
       "block.billysmod.topaz_ore": "Topaz Ore"
@@ -1958,12 +1910,25 @@
         "children": []
       },
       {
-        "name": "Icewood",
+        "name": "Wooden Armor",
         "children": []
       },
       {
-        "name": "Wooden Armor",
+        "name": "Frozen Dimension",
         "children": []
+      },
+      {
+        "name": "Uranium",
+        "children": []
+      },
+      {
+        "name": "Desert Dimension",
+        "children": [
+          {
+            "name": "Wood",
+            "children": []
+          }
+        ]
       }
     ]
   },

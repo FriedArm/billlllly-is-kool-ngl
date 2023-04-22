@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "billysmod:blocks/copper_wire",
+    "up": "billysmod:blocks/copper_wire",
+    "north": "billysmod:blocks/copper_wire",
+    "east": "billysmod:blocks/copper_wire",
+    "south": "billysmod:blocks/copper_wire",
+    "west": "billysmod:blocks/copper_wire",
+    "particle": "billysmod:blocks/copper_wire"
+  },
+  "render_type": "solid"
+}

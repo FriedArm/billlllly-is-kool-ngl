@@ -10,6 +10,7 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.billysmod.block.WireBlock;
 import net.mcreator.billysmod.block.TopazOreBlock;
 import net.mcreator.billysmod.block.TopazBlockBlock;
 import net.mcreator.billysmod.block.TheFrozenDimensionPortalBlock;
@@ -17,16 +18,17 @@ import net.mcreator.billysmod.block.RubyOreBlock;
 import net.mcreator.billysmod.block.RubyBlockBlock;
 import net.mcreator.billysmod.block.JadeOreBlock;
 import net.mcreator.billysmod.block.JadeBlockBlock;
-import net.mcreator.billysmod.block.IcewoodWoodBlock;
-import net.mcreator.billysmod.block.IcewoodStairsBlock;
-import net.mcreator.billysmod.block.IcewoodSlabBlock;
-import net.mcreator.billysmod.block.IcewoodPressurePlateBlock;
-import net.mcreator.billysmod.block.IcewoodPlanksBlock;
-import net.mcreator.billysmod.block.IcewoodLogBlock;
-import net.mcreator.billysmod.block.IcewoodLeavesBlock;
-import net.mcreator.billysmod.block.IcewoodFenceGateBlock;
-import net.mcreator.billysmod.block.IcewoodFenceBlock;
-import net.mcreator.billysmod.block.IcewoodButtonBlock;
+import net.mcreator.billysmod.block.DesertWoodBlock;
+import net.mcreator.billysmod.block.DesertStairsBlock;
+import net.mcreator.billysmod.block.DesertSlabBlock;
+import net.mcreator.billysmod.block.DesertPressurePlateBlock;
+import net.mcreator.billysmod.block.DesertPlanksBlock;
+import net.mcreator.billysmod.block.DesertLogBlock;
+import net.mcreator.billysmod.block.DesertLeavesBlock;
+import net.mcreator.billysmod.block.DesertFenceGateBlock;
+import net.mcreator.billysmod.block.DesertFenceBlock;
+import net.mcreator.billysmod.block.DesertDimensionPortalBlock;
+import net.mcreator.billysmod.block.DesertButtonBlock;
 import net.mcreator.billysmod.BillysmodMod;
 
 public class BillysmodModBlocks {
@@ -38,14 +40,16 @@ public class BillysmodModBlocks {
 	public static final RegistryObject<Block> TOPAZ_BLOCK = REGISTRY.register("topaz_block", () -> new TopazBlockBlock());
 	public static final RegistryObject<Block> JADE_ORE = REGISTRY.register("jade_ore", () -> new JadeOreBlock());
 	public static final RegistryObject<Block> JADE_BLOCK = REGISTRY.register("jade_block", () -> new JadeBlockBlock());
-	public static final RegistryObject<Block> ICEWOOD_WOOD = REGISTRY.register("icewood_wood", () -> new IcewoodWoodBlock());
-	public static final RegistryObject<Block> ICEWOOD_LOG = REGISTRY.register("icewood_log", () -> new IcewoodLogBlock());
-	public static final RegistryObject<Block> ICEWOOD_PLANKS = REGISTRY.register("icewood_planks", () -> new IcewoodPlanksBlock());
-	public static final RegistryObject<Block> ICEWOOD_LEAVES = REGISTRY.register("icewood_leaves", () -> new IcewoodLeavesBlock());
-	public static final RegistryObject<Block> ICEWOOD_STAIRS = REGISTRY.register("icewood_stairs", () -> new IcewoodStairsBlock());
-	public static final RegistryObject<Block> ICEWOOD_SLAB = REGISTRY.register("icewood_slab", () -> new IcewoodSlabBlock());
-	public static final RegistryObject<Block> ICEWOOD_FENCE = REGISTRY.register("icewood_fence", () -> new IcewoodFenceBlock());
-	public static final RegistryObject<Block> ICEWOOD_FENCE_GATE = REGISTRY.register("icewood_fence_gate", () -> new IcewoodFenceGateBlock());
-	public static final RegistryObject<Block> ICEWOOD_PRESSURE_PLATE = REGISTRY.register("icewood_pressure_plate", () -> new IcewoodPressurePlateBlock());
-	public static final RegistryObject<Block> ICEWOOD_BUTTON = REGISTRY.register("icewood_button", () -> new IcewoodButtonBlock());
+	public static final RegistryObject<Block> WIRE = REGISTRY.register("wire", () -> new WireBlock());
+	public static final RegistryObject<Block> DESERT_DIMENSION_PORTAL = REGISTRY.register("desert_dimension_portal", () -> new DesertDimensionPortalBlock());
+	public static final RegistryObject<Block> DESERT_WOOD = REGISTRY.register("desert_wood", () -> new DesertWoodBlock());
+	public static final RegistryObject<Block> DESERT_LOG = REGISTRY.register("desert_log", () -> new DesertLogBlock());
+	public static final RegistryObject<Block> DESERT_PLANKS = REGISTRY.register("desert_planks", () -> new DesertPlanksBlock());
+	public static final RegistryObject<Block> DESERT_LEAVES = REGISTRY.register("desert_leaves", () -> new DesertLeavesBlock());
+	public static final RegistryObject<Block> DESERT_STAIRS = REGISTRY.register("desert_stairs", () -> new DesertStairsBlock());
+	public static final RegistryObject<Block> DESERT_SLAB = REGISTRY.register("desert_slab", () -> new DesertSlabBlock());
+	public static final RegistryObject<Block> DESERT_FENCE = REGISTRY.register("desert_fence", () -> new DesertFenceBlock());
+	public static final RegistryObject<Block> DESERT_FENCE_GATE = REGISTRY.register("desert_fence_gate", () -> new DesertFenceGateBlock());
+	public static final RegistryObject<Block> DESERT_PRESSURE_PLATE = REGISTRY.register("desert_pressure_plate", () -> new DesertPressurePlateBlock());
+	public static final RegistryObject<Block> DESERT_BUTTON = REGISTRY.register("desert_button", () -> new DesertButtonBlock());
 }

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "billysmod:block/desert_pressure_plate"
+    },
+    "powered=true": {
+      "model": "billysmod:block/desert_pressure_plate_down"
+    }
+  }
+}

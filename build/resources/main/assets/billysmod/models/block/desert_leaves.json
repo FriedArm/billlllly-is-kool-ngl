@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/desert_leaves",
+    "particle": "billysmod:blocks/desert_leaves"
+  }
+}

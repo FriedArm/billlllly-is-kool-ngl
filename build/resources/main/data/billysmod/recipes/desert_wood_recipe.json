@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:desert_log"
+    },
+    "1": {
+      "item": "billysmod:desert_log"
+    },
+    "2": {
+      "item": "billysmod:desert_log"
+    },
+    "3": {
+      "item": "billysmod:desert_log"
+    }
+  },
+  "result": {
+    "item": "billysmod:desert_wood",
+    "count": 3
+  }
+}
