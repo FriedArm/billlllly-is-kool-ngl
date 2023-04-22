@@ -29,6 +29,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.billysmod.init.BillysmodModTabs;
 import net.mcreator.billysmod.init.BillysmodModItems;
 import net.mcreator.billysmod.init.BillysmodModFeatures;
 import net.mcreator.billysmod.init.BillysmodModBlocks;
@@ -50,7 +51,7 @@ public class BillysmodMod {
 
 	public BillysmodMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-
+		BillysmodModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		BillysmodModBlocks.REGISTRY.register(bus);
