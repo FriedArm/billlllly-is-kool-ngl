@@ -11,8 +11,7 @@
         "files": [
           "src/main/java/net/mcreator/billysmod/world/biome/FrozenBiomeBiome.java"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "TheFrozenDimension",
@@ -23,20 +22,19 @@
       "registry_name": "the_frozen_dimension",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/TheFrozenDimensionItem.java",
-          "src/main/java/net/mcreator/billysmod/world/dimension/TheFrozenDimensionDimension.java",
           "src/main/resources/data/billysmod/dimension_type/the_frozen_dimension.json",
-          "src/main/java/net/mcreator/billysmod/block/TheFrozenDimensionPortalBlock.java",
-          "src/main/java/net/mcreator/billysmod/world/teleporter/TheFrozenDimensionTeleporter.java",
-          "src/main/java/net/mcreator/billysmod/world/teleporter/TheFrozenDimensionPortalShape.java",
           "src/main/resources/assets/billysmod/models/item/the_frozen_dimension.json",
-          "src/main/resources/data/billysmod/dimension/the_frozen_dimension.json",
-          "src/main/resources/assets/billysmod/blockstates/the_frozen_dimension_portal.json",
+          "src/main/java/net/mcreator/billysmod/block/TheFrozenDimensionPortalBlock.java",
           "src/main/resources/assets/billysmod/models/block/the_frozen_dimension_portal_ew.json",
-          "src/main/resources/assets/billysmod/models/block/the_frozen_dimension_portal_ns.json"
+          "src/main/java/net/mcreator/billysmod/world/dimension/TheFrozenDimensionDimension.java",
+          "src/main/java/net/mcreator/billysmod/item/TheFrozenDimensionItem.java",
+          "src/main/resources/assets/billysmod/models/block/the_frozen_dimension_portal_ns.json",
+          "src/main/java/net/mcreator/billysmod/world/teleporter/TheFrozenDimensionTeleporter.java",
+          "src/main/resources/data/billysmod/dimension/the_frozen_dimension.json",
+          "src/main/java/net/mcreator/billysmod/world/teleporter/TheFrozenDimensionPortalShape.java",
+          "src/main/resources/assets/billysmod/blockstates/the_frozen_dimension_portal.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "FrozenOrb",
@@ -49,8 +47,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/frozen_orb.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "FrozenBaseChest",
@@ -63,8 +60,7 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/chests/frozen_base_chest.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "FrozenHouse",
@@ -75,11 +71,10 @@
       "registry_name": "frozen_house",
       "metadata": {
         "files": [
-          "src/main/resources/data/billysmod/forge/biome_modifier/frozen_house_biome_modifier.json",
-          "src/main/java/net/mcreator/billysmod/world/features/FrozenHouseFeature.java"
+          "src/main/java/net/mcreator/billysmod/world/features/FrozenHouseFeature.java",
+          "src/main/resources/data/billysmod/forge/biome_modifier/frozen_house_biome_modifier.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "EmeraldSword",
@@ -90,11 +85,10 @@
       "registry_name": "emerald_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/emerald_sword.json",
-          "src/main/java/net/mcreator/billysmod/item/EmeraldSwordItem.java"
+          "src/main/java/net/mcreator/billysmod/item/EmeraldSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/emerald_sword.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldSwordRecipe",
@@ -107,8 +101,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_sword_recipe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldPickAxe",
@@ -122,8 +115,7 @@
           "src/main/java/net/mcreator/billysmod/item/EmeraldPickAxeItem.java",
           "src/main/resources/assets/billysmod/models/item/emerald_pick_axe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldPickaxeRecipe",
@@ -136,8 +128,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_pickaxe_recipe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldAxe",
@@ -148,11 +139,10 @@
       "registry_name": "emerald_axe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/EmeraldAxeItem.java",
-          "src/main/resources/assets/billysmod/models/item/emerald_axe.json"
+          "src/main/resources/assets/billysmod/models/item/emerald_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/EmeraldAxeItem.java"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldAxeRecipe",
@@ -165,8 +155,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_axe_recipe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldShovel",
@@ -180,8 +169,7 @@
           "src/main/java/net/mcreator/billysmod/item/EmeraldShovelItem.java",
           "src/main/resources/assets/billysmod/models/item/emerald_shovel.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldShovelRecipe",
@@ -194,8 +182,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_shovel_recipe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldHoe",
@@ -206,11 +193,10 @@
       "registry_name": "emerald_hoe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/EmeraldHoeItem.java",
-          "src/main/resources/assets/billysmod/models/item/emerald_hoe.json"
+          "src/main/resources/assets/billysmod/models/item/emerald_hoe.json",
+          "src/main/java/net/mcreator/billysmod/item/EmeraldHoeItem.java"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldHoeRecipe",
@@ -223,8 +209,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_hoe_recipe.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldArmor",
@@ -235,14 +220,13 @@
       "registry_name": "emerald_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/emerald_armor_leggings.json",
+          "src/main/resources/assets/billysmod/models/item/emerald_armor_helmet.json",
           "src/main/java/net/mcreator/billysmod/item/EmeraldArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/emerald_armor_leggings.json",
           "src/main/resources/assets/billysmod/models/item/emerald_armor_boots.json",
-          "src/main/resources/assets/billysmod/models/item/emerald_armor_chestplate.json",
-          "src/main/resources/assets/billysmod/models/item/emerald_armor_helmet.json"
+          "src/main/resources/assets/billysmod/models/item/emerald_armor_chestplate.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldHelmet",
@@ -255,8 +239,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_helmet.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldChestplate",
@@ -269,8 +252,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_chestplate.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldLeggings",
@@ -283,8 +265,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_leggings.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "EmeraldBoots",
@@ -297,8 +278,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/emerald_boots.json"
         ]
-      },
-      "path": "~/Emerald"
+      }
     },
     {
       "name": "Ruby",
@@ -312,8 +292,7 @@
           "src/main/java/net/mcreator/billysmod/item/RubyItem.java",
           "src/main/resources/assets/billysmod/models/item/ruby.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubyOre",
@@ -324,15 +303,14 @@
       "registry_name": "ruby_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/ruby_ore.json",
-          "src/main/resources/data/billysmod/forge/biome_modifier/ruby_ore_biome_modifier.json",
           "src/main/resources/assets/billysmod/models/block/ruby_ore.json",
-          "src/main/resources/assets/billysmod/blockstates/ruby_ore.json",
+          "src/main/resources/data/billysmod/forge/biome_modifier/ruby_ore_biome_modifier.json",
           "src/main/java/net/mcreator/billysmod/block/RubyOreBlock.java",
-          "src/main/java/net/mcreator/billysmod/world/features/ores/RubyOreFeature.java"
+          "src/main/java/net/mcreator/billysmod/world/features/ores/RubyOreFeature.java",
+          "src/main/resources/assets/billysmod/models/item/ruby_ore.json",
+          "src/main/resources/assets/billysmod/blockstates/ruby_ore.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubyBlock",
@@ -345,11 +323,10 @@
         "files": [
           "src/main/java/net/mcreator/billysmod/block/RubyBlockBlock.java",
           "src/main/resources/assets/billysmod/models/item/ruby_block.json",
-          "src/main/resources/assets/billysmod/blockstates/ruby_block.json",
-          "src/main/resources/assets/billysmod/models/block/ruby_block.json"
+          "src/main/resources/assets/billysmod/models/block/ruby_block.json",
+          "src/main/resources/assets/billysmod/blockstates/ruby_block.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubyOreBlockRecipe",
@@ -362,8 +339,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/ruby_ore_block_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubyBlockOreRecipe",
@@ -376,8 +352,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/ruby_block_ore_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiPickaxe",
@@ -391,8 +366,7 @@
           "src/main/resources/assets/billysmod/models/item/rubi_pickaxe.json",
           "src/main/java/net/mcreator/billysmod/item/RubiPickaxeItem.java"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiAxe",
@@ -403,11 +377,10 @@
       "registry_name": "rubi_axe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/rubi_axe.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiAxeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/RubiAxeItem.java",
+          "src/main/resources/assets/billysmod/models/item/rubi_axe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiSword",
@@ -418,11 +391,10 @@
       "registry_name": "rubi_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/rubi_sword.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java"
+          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/rubi_sword.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiShovel",
@@ -436,8 +408,7 @@
           "src/main/resources/assets/billysmod/models/item/rubi_shovel.json",
           "src/main/java/net/mcreator/billysmod/item/RubiShovelItem.java"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiHoe",
@@ -448,11 +419,10 @@
       "registry_name": "rubi_hoe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/rubi_hoe.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiHoeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/RubiHoeItem.java",
+          "src/main/resources/assets/billysmod/models/item/rubi_hoe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiPickaxeRecipe",
@@ -465,8 +435,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_pickaxe_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiAxeRecipe",
@@ -479,8 +448,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_axe_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiSwordRecipe",
@@ -493,8 +461,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_sword_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiShovelRecipe",
@@ -507,8 +474,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_shovel_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiHoeRecipe",
@@ -521,8 +487,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_hoe_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiArmor",
@@ -536,11 +501,10 @@
           "src/main/resources/assets/billysmod/models/item/rubi_armor_helmet.json",
           "src/main/resources/assets/billysmod/models/item/rubi_armor_leggings.json",
           "src/main/resources/assets/billysmod/models/item/rubi_armor_boots.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiArmorItem.java",
-          "src/main/resources/assets/billysmod/models/item/rubi_armor_chestplate.json"
+          "src/main/resources/assets/billysmod/models/item/rubi_armor_chestplate.json",
+          "src/main/java/net/mcreator/billysmod/item/RubiArmorItem.java"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiArmorHelmetRecipe",
@@ -553,8 +517,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_armor_helmet_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiArmorBodyRecipe",
@@ -567,8 +530,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_armor_body_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiArmorLeggingsRecipe",
@@ -581,8 +543,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_armor_leggings_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "RubiArmorBootsRecipe",
@@ -595,8 +556,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/rubi_armor_boots_recipe.json"
         ]
-      },
-      "path": "~/Ruby"
+      }
     },
     {
       "name": "Topaz",
@@ -607,11 +567,10 @@
       "registry_name": "topaz",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz.json",
-          "src/main/java/net/mcreator/billysmod/item/TopazItem.java"
+          "src/main/java/net/mcreator/billysmod/item/TopazItem.java",
+          "src/main/resources/assets/billysmod/models/item/topaz.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazOre",
@@ -622,15 +581,14 @@
       "registry_name": "topaz_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz_ore.json",
-          "src/main/resources/data/billysmod/forge/biome_modifier/topaz_ore_biome_modifier.json",
-          "src/main/resources/assets/billysmod/blockstates/topaz_ore.json",
           "src/main/java/net/mcreator/billysmod/world/features/ores/TopazOreFeature.java",
+          "src/main/resources/data/billysmod/forge/biome_modifier/topaz_ore_biome_modifier.json",
           "src/main/resources/assets/billysmod/models/block/topaz_ore.json",
-          "src/main/java/net/mcreator/billysmod/block/TopazOreBlock.java"
+          "src/main/java/net/mcreator/billysmod/block/TopazOreBlock.java",
+          "src/main/resources/assets/billysmod/models/item/topaz_ore.json",
+          "src/main/resources/assets/billysmod/blockstates/topaz_ore.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazBlock",
@@ -642,12 +600,11 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/billysmod/block/TopazBlockBlock.java",
+          "src/main/resources/assets/billysmod/models/block/topaz_block.json",
           "src/main/resources/assets/billysmod/models/item/topaz_block.json",
-          "src/main/resources/assets/billysmod/blockstates/topaz_block.json",
-          "src/main/resources/assets/billysmod/models/block/topaz_block.json"
+          "src/main/resources/assets/billysmod/blockstates/topaz_block.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazOreBlockRecipe",
@@ -660,8 +617,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_ore_block_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazBlockOreRecipe",
@@ -674,8 +630,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_block_ore_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazPickaxe",
@@ -686,11 +641,10 @@
       "registry_name": "topaz_pickaxe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/TopazPickaxeItem.java",
-          "src/main/resources/assets/billysmod/models/item/topaz_pickaxe.json"
+          "src/main/resources/assets/billysmod/models/item/topaz_pickaxe.json",
+          "src/main/java/net/mcreator/billysmod/item/TopazPickaxeItem.java"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazAxe",
@@ -701,11 +655,10 @@
       "registry_name": "topaz_axe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz_axe.json",
-          "src/main/java/net/mcreator/billysmod/item/TopazAxeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/TopazAxeItem.java",
+          "src/main/resources/assets/billysmod/models/item/topaz_axe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazSword",
@@ -719,8 +672,7 @@
           "src/main/java/net/mcreator/billysmod/item/TopazSwordItem.java",
           "src/main/resources/assets/billysmod/models/item/topaz_sword.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazShovel",
@@ -731,11 +683,10 @@
       "registry_name": "topaz_shovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz_shovel.json",
-          "src/main/java/net/mcreator/billysmod/item/TopazShovelItem.java"
+          "src/main/java/net/mcreator/billysmod/item/TopazShovelItem.java",
+          "src/main/resources/assets/billysmod/models/item/topaz_shovel.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazHoe",
@@ -746,11 +697,10 @@
       "registry_name": "topaz_hoe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz_hoe.json",
-          "src/main/java/net/mcreator/billysmod/item/TopazHoeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/TopazHoeItem.java",
+          "src/main/resources/assets/billysmod/models/item/topaz_hoe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazPickaxeRecipe",
@@ -763,8 +713,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_pickaxe_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazAxeRecipe",
@@ -777,8 +726,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_axe_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazSwordRecipe",
@@ -791,8 +739,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_sword_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazShovelRecipe",
@@ -805,8 +752,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_shovel_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazHoeRecipe",
@@ -819,8 +765,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_hoe_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazArmor",
@@ -831,14 +776,13 @@
       "registry_name": "topaz_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/topaz_armor_chestplate.json",
-          "src/main/java/net/mcreator/billysmod/item/TopazArmorItem.java",
           "src/main/resources/assets/billysmod/models/item/topaz_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/topaz_armor_leggings.json",
           "src/main/resources/assets/billysmod/models/item/topaz_armor_helmet.json",
-          "src/main/resources/assets/billysmod/models/item/topaz_armor_leggings.json"
+          "src/main/java/net/mcreator/billysmod/item/TopazArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/topaz_armor_chestplate.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazArmorHelmetRecipe",
@@ -851,8 +795,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_armor_helmet_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazArmorBodyRecipe",
@@ -865,8 +808,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_armor_body_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazArmorLeggingsRecipe",
@@ -879,8 +821,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_armor_leggings_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "TopazArmorBootsRecipe",
@@ -893,8 +834,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/topaz_armor_boots_recipe.json"
         ]
-      },
-      "path": "~/Topaz"
+      }
     },
     {
       "name": "Jade",
@@ -908,8 +848,7 @@
           "src/main/java/net/mcreator/billysmod/item/JadeItem.java",
           "src/main/resources/assets/billysmod/models/item/jade.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeOre",
@@ -920,15 +859,14 @@
       "registry_name": "jade_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/jade_ore.json",
-          "src/main/java/net/mcreator/billysmod/world/features/ores/JadeOreFeature.java",
-          "src/main/resources/assets/billysmod/blockstates/jade_ore.json",
+          "src/main/resources/assets/billysmod/models/block/jade_ore.json",
           "src/main/java/net/mcreator/billysmod/block/JadeOreBlock.java",
-          "src/main/resources/data/billysmod/forge/biome_modifier/jade_ore_biome_modifier.json",
-          "src/main/resources/assets/billysmod/models/block/jade_ore.json"
+          "src/main/resources/assets/billysmod/models/item/jade_ore.json",
+          "src/main/resources/assets/billysmod/blockstates/jade_ore.json",
+          "src/main/java/net/mcreator/billysmod/world/features/ores/JadeOreFeature.java",
+          "src/main/resources/data/billysmod/forge/biome_modifier/jade_ore_biome_modifier.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeBlock",
@@ -939,13 +877,12 @@
       "registry_name": "jade_block",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/block/JadeBlockBlock.java",
-          "src/main/resources/assets/billysmod/models/item/jade_block.json",
           "src/main/resources/assets/billysmod/blockstates/jade_block.json",
-          "src/main/resources/assets/billysmod/models/block/jade_block.json"
+          "src/main/resources/assets/billysmod/models/block/jade_block.json",
+          "src/main/resources/assets/billysmod/models/item/jade_block.json",
+          "src/main/java/net/mcreator/billysmod/block/JadeBlockBlock.java"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeOreBlockRecipe",
@@ -958,8 +895,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_ore_block_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeBlockOreRecipe",
@@ -972,8 +908,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_block_ore_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadePickaxe",
@@ -987,8 +922,7 @@
           "src/main/resources/assets/billysmod/models/item/jade_pickaxe.json",
           "src/main/java/net/mcreator/billysmod/item/JadePickaxeItem.java"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeAxe",
@@ -999,11 +933,10 @@
       "registry_name": "jade_axe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/jade_axe.json",
-          "src/main/java/net/mcreator/billysmod/item/JadeAxeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/JadeAxeItem.java",
+          "src/main/resources/assets/billysmod/models/item/jade_axe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeSword",
@@ -1017,8 +950,7 @@
           "src/main/java/net/mcreator/billysmod/item/JadeSwordItem.java",
           "src/main/resources/assets/billysmod/models/item/jade_sword.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeShovel",
@@ -1029,11 +961,10 @@
       "registry_name": "jade_shovel",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/JadeShovelItem.java",
-          "src/main/resources/assets/billysmod/models/item/jade_shovel.json"
+          "src/main/resources/assets/billysmod/models/item/jade_shovel.json",
+          "src/main/java/net/mcreator/billysmod/item/JadeShovelItem.java"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeHoe",
@@ -1044,11 +975,10 @@
       "registry_name": "jade_hoe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/jade_hoe.json",
-          "src/main/java/net/mcreator/billysmod/item/JadeHoeItem.java"
+          "src/main/java/net/mcreator/billysmod/item/JadeHoeItem.java",
+          "src/main/resources/assets/billysmod/models/item/jade_hoe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadePickaxeRecipe",
@@ -1061,8 +991,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_pickaxe_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeAxeRecipe",
@@ -1075,8 +1004,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_axe_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeSwordRecipe",
@@ -1089,8 +1017,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_sword_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeShovelRecipe",
@@ -1103,8 +1030,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_shovel_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeHoeRecipe",
@@ -1117,8 +1043,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_hoe_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeArmor",
@@ -1129,14 +1054,13 @@
       "registry_name": "jade_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/jade_armor_boots.json",
           "src/main/resources/assets/billysmod/models/item/jade_armor_leggings.json",
-          "src/main/resources/assets/billysmod/models/item/jade_armor_helmet.json",
           "src/main/resources/assets/billysmod/models/item/jade_armor_chestplate.json",
-          "src/main/java/net/mcreator/billysmod/item/JadeArmorItem.java"
+          "src/main/resources/assets/billysmod/models/item/jade_armor_helmet.json",
+          "src/main/java/net/mcreator/billysmod/item/JadeArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/jade_armor_boots.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeArmorHelmetRecipe",
@@ -1149,8 +1073,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_armor_helmet_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeArmorBodyRecipe",
@@ -1163,8 +1086,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_armor_body_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeArmorLeggingsRecipe",
@@ -1177,8 +1099,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_armor_leggings_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "JadeArmorBootsRecipe",
@@ -1191,8 +1112,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/jade_armor_boots_recipe.json"
         ]
-      },
-      "path": "~/Jade"
+      }
     },
     {
       "name": "OpChest",
@@ -1216,11 +1136,10 @@
       "registry_name": "snow_house",
       "metadata": {
         "files": [
-          "src/main/resources/data/billysmod/forge/biome_modifier/snow_house_biome_modifier.json",
-          "src/main/java/net/mcreator/billysmod/world/features/SnowHouseFeature.java"
+          "src/main/java/net/mcreator/billysmod/world/features/SnowHouseFeature.java",
+          "src/main/resources/data/billysmod/forge/biome_modifier/snow_house_biome_modifier.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "Chest",
@@ -1247,8 +1166,7 @@
           "src/main/java/net/mcreator/billysmod/world/features/WildChestFeature.java",
           "src/main/resources/data/billysmod/forge/biome_modifier/wild_chest_biome_modifier.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "WoodenArmor",
@@ -1259,14 +1177,13 @@
       "registry_name": "wooden_armor",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/WoodenArmorItem.java",
           "src/main/resources/assets/billysmod/models/item/wooden_armor_leggings.json",
           "src/main/resources/assets/billysmod/models/item/wooden_armor_boots.json",
           "src/main/resources/assets/billysmod/models/item/wooden_armor_chestplate.json",
+          "src/main/java/net/mcreator/billysmod/item/WoodenArmorItem.java",
           "src/main/resources/assets/billysmod/models/item/wooden_armor_helmet.json"
         ]
-      },
-      "path": "~/Wooden Armor"
+      }
     },
     {
       "name": "WoodenArmorHelmetRecipe",
@@ -1279,8 +1196,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/wooden_armor_helmet_recipe.json"
         ]
-      },
-      "path": "~/Wooden Armor"
+      }
     },
     {
       "name": "WoodenArmorBodyRecipe",
@@ -1293,8 +1209,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/wooden_armor_body_recipe.json"
         ]
-      },
-      "path": "~/Wooden Armor"
+      }
     },
     {
       "name": "WoodenArmorLeggingsRecipe",
@@ -1307,8 +1222,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/wooden_armor_leggings_recipe.json"
         ]
-      },
-      "path": "~/Wooden Armor"
+      }
     },
     {
       "name": "WoodenArmorBootsRecipe",
@@ -1321,8 +1235,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/wooden_armor_boots_recipe.json"
         ]
-      },
-      "path": "~/Wooden Armor"
+      }
     },
     {
       "name": "CopperArmor",
@@ -1333,14 +1246,13 @@
       "registry_name": "copper_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/copper_armor_leggings.json",
+          "src/main/resources/assets/billysmod/models/item/copper_armor_helmet.json",
           "src/main/java/net/mcreator/billysmod/item/CopperArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/copper_armor_leggings.json",
           "src/main/resources/assets/billysmod/models/item/copper_armor_boots.json",
-          "src/main/resources/assets/billysmod/models/item/copper_armor_chestplate.json",
-          "src/main/resources/assets/billysmod/models/item/copper_armor_helmet.json"
+          "src/main/resources/assets/billysmod/models/item/copper_armor_chestplate.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperArmorHelmetRecipe",
@@ -1353,8 +1265,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_armor_helmet_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperArmorBodyRecipe",
@@ -1367,8 +1278,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_armor_body_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperArmorLeggingsRecipe",
@@ -1381,8 +1291,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_armor_leggings_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperArmorBootsRecipe",
@@ -1395,8 +1304,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_armor_boots_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperPickaxe",
@@ -1410,8 +1318,7 @@
           "src/main/java/net/mcreator/billysmod/item/CopperPickaxeItem.java",
           "src/main/resources/assets/billysmod/models/item/copper_pickaxe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperAxe",
@@ -1422,11 +1329,10 @@
       "registry_name": "copper_axe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/billysmod/item/CopperAxeItem.java",
-          "src/main/resources/assets/billysmod/models/item/copper_axe.json"
+          "src/main/resources/assets/billysmod/models/item/copper_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/CopperAxeItem.java"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperSword",
@@ -1437,11 +1343,10 @@
       "registry_name": "copper_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/copper_sword.json",
-          "src/main/java/net/mcreator/billysmod/item/CopperSwordItem.java"
+          "src/main/java/net/mcreator/billysmod/item/CopperSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/copper_sword.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperShovel",
@@ -1455,8 +1360,7 @@
           "src/main/resources/assets/billysmod/models/item/copper_shovel.json",
           "src/main/java/net/mcreator/billysmod/item/CopperShovelItem.java"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperHoe",
@@ -1470,8 +1374,7 @@
           "src/main/resources/assets/billysmod/models/item/copper_hoe.json",
           "src/main/java/net/mcreator/billysmod/item/CopperHoeItem.java"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperPickaxeRecipe",
@@ -1484,8 +1387,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_pickaxe_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperAxeRecipe",
@@ -1498,8 +1400,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_axe_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperSwordRecipe",
@@ -1512,8 +1413,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_sword_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperShovelRecipe",
@@ -1526,8 +1426,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_shovel_recipe.json"
         ]
-      },
-      "path": "~/Copper"
+      }
     },
     {
       "name": "CopperHoeRecipe",
@@ -1540,25 +1439,7 @@
         "files": [
           "src/main/resources/data/billysmod/recipes/copper_hoe_recipe.json"
         ]
-      },
-      "path": "~/Copper"
-    },
-    {
-      "name": "Wire",
-      "type": "block",
-      "sortid": 107,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "wire",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/billysmod/models/block/wire.json",
-          "src/main/java/net/mcreator/billysmod/block/WireBlock.java",
-          "src/main/resources/assets/billysmod/blockstates/wire.json",
-          "src/main/resources/assets/billysmod/models/item/wire.json"
-        ]
-      },
-      "path": "~/Copper"
+      }
     }
   ],
   "variable_elements": [],
@@ -1569,14 +1450,13 @@
       "item.billysmod.emerald_armor_boots": "Emerald Boots",
       "item.billysmod.topaz_sword": "Topaz Sword",
       "item.billysmod.rubi_shovel": "Ruby Shovel",
-      "item.billysmod.jade_armor_leggings": "Jade Leggings",
       "item.billysmod.topaz_hoe": "Topaz Hoe",
+      "item.billysmod.jade_armor_leggings": "Jade Leggings",
       "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
       "item.billysmod.jade_axe": "Jade Axe",
       "item.billysmod.rubi_armor_boots": "Ruby Boots",
       "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
       "item.billysmod.copper_axe": "Copper Axe",
-      "block.billysmod.wire": "Wire",
       "item.billysmod.jade_shovel": "Jade Shovel",
       "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
       "item.billysmod.jade": "Jade",
@@ -1587,21 +1467,21 @@
       "item.billysmod.jade_pickaxe": "Jade Pickaxe",
       "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
       "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
-      "item.billysmod.emerald_sword": "Emerald Sword",
       "item.billysmod.rubi_axe": "Ruby Axe",
+      "item.billysmod.emerald_sword": "Emerald Sword",
       "block.billysmod.jade_ore": "Jade Ore",
       "item.billysmod.copper_armor_leggings": "Copper Leggings",
       "block.billysmod.jade_block": "Block of Jade",
       "item.billysmod.emerald_hoe": "Emerald Hoe",
       "item.billysmod.jade_hoe": "Jade Hoe",
-      "item.billysmod.topaz_armor_chestplate": "Topaz Chestplate",
-      "item.billysmod.jade_armor_boots": "Jade Boots",
       "item.billysmod.rubi_sword": "Ruby Sword",
       "item.billysmod.rubi_armor_chestplate": "Ruby Chestplate",
+      "item.billysmod.topaz_armor_chestplate": "Topaz Chestplate",
+      "item.billysmod.jade_armor_boots": "Jade Boots",
       "item.billysmod.emerald_armor_leggings": "Emerald Leggings",
       "item.billysmod.ruby": "Ruby",
-      "block.billysmod.topaz_block": "Block of Topaz",
       "item.billysmod.rubi_hoe": "Ruby Hoe",
+      "block.billysmod.topaz_block": "Block of Topaz",
       "item.billysmod.rubi_armor_leggings": "Ruby Leggings",
       "item.billysmod.copper_hoe": "Copper Hoe",
       "item.billysmod.emerald_axe": "Emerald Axe",
@@ -1630,44 +1510,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "Ruby",
-        "children": []
-      },
-      {
-        "name": "Emerald",
-        "children": []
-      },
-      {
-        "name": "Topaz",
-        "children": []
-      },
-      {
-        "name": "Jade",
-        "children": []
-      },
-      {
-        "name": "Copper",
-        "children": []
-      },
-      {
-        "name": "Wooden Armor",
-        "children": []
-      },
-      {
-        "name": "Frozen Dimension",
-        "children": []
-      },
-      {
-        "name": "Uranium",
-        "children": []
-      },
-      {
-        "name": "Desert Dimension",
-        "children": []
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "billysmod",
