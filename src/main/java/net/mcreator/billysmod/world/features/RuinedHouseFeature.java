@@ -49,7 +49,7 @@ public class RuinedHouseFeature extends Feature<NoneFeatureConfiguration> {
 		if (!generate_dimensions.contains(context.level().getLevel().dimension()))
 			return false;
 		if (template == null)
-			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("billysmod", "new_project-1"));
+			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("billysmod", "ruined_house"));
 		if (template == null)
 			return false;
 		boolean anyPlaced = false;

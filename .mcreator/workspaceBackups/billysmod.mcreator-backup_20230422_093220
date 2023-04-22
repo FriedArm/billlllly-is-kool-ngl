@@ -1205,8 +1205,7 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/blocks/op_chest.json"
         ]
-      },
-      "path": "~/Frozen Dimension"
+      }
     },
     {
       "name": "SnowHouse",
@@ -1234,8 +1233,7 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/chests/chest.json"
         ]
-      },
-      "path": "~/Loot chest"
+      }
     },
     {
       "name": "WildChest",
@@ -1250,7 +1248,7 @@
           "src/main/resources/data/billysmod/forge/biome_modifier/wild_chest_biome_modifier.json"
         ]
       },
-      "path": "~/Loot chest"
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "WoodenArmor",
@@ -1931,10 +1929,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "name": "Loot chest",
-        "children": []
       }
     ]
   },
