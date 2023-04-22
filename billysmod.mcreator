@@ -418,8 +418,8 @@
       "registry_name": "rubi_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/rubi_sword.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java"
+          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/rubi_sword.json"
         ]
       },
       "path": "~/Ruby"

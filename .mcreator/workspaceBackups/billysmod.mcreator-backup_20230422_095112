@@ -418,8 +418,8 @@
       "registry_name": "rubi_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/billysmod/models/item/rubi_sword.json",
-          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java"
+          "src/main/java/net/mcreator/billysmod/item/RubiSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/rubi_sword.json"
         ]
       },
       "path": "~/Ruby"
@@ -1205,7 +1205,8 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/blocks/op_chest.json"
         ]
-      }
+      },
+      "path": "~/Frozen Dimension"
     },
     {
       "name": "SnowHouse",
@@ -1233,7 +1234,8 @@
         "files": [
           "src/main/resources/data/billysmod/loot_tables/chests/chest.json"
         ]
-      }
+      },
+      "path": "~/Loot chest"
     },
     {
       "name": "WildChest",
@@ -1248,7 +1250,7 @@
           "src/main/resources/data/billysmod/forge/biome_modifier/wild_chest_biome_modifier.json"
         ]
       },
-      "path": "~/Frozen Dimension"
+      "path": "~/Loot chest"
     },
     {
       "name": "WoodenArmor",
@@ -1599,21 +1601,6 @@
       "path": "~/Desert Dimension"
     },
     {
-      "name": "RuinedHouse",
-      "type": "structure",
-      "sortid": 110,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ruined_house",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/forge/biome_modifier/ruined_house_biome_modifier.json",
-          "src/main/java/net/mcreator/billysmod/world/features/RuinedHouseFeature.java"
-        ]
-      },
-      "path": "~/Desert Dimension"
-    },
-    {
       "name": "RuinedHouseLootChest",
       "type": "loottable",
       "sortid": 111,
@@ -1623,6 +1610,200 @@
       "metadata": {
         "files": [
           "src/main/resources/data/billysmod/loot_tables/chests/ruined_house_loot_chest.json"
+        ]
+      },
+      "path": "~/Desert Dimension"
+    },
+    {
+      "name": "DesertWood",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_wood",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertLog",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_log",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertPlanks",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_planks",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertLeaves",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_leaves",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertStairs",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_stairs",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertSlab",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_slab",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFence",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFenceGate",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence_gate",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertPressurePlate",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_pressure_plate",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertButton",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_button",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertItemsTag",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_items_tag",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertWoodRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_wood_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertPlanksRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_planks_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertStairsRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_stairs_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertSlabRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_slab_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFenceRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_fence_gate_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_pressure_plate_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertButtonRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_button_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "DesertStickRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desert_stick_recipe",
+      "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "RuinedHouse",
+      "type": "structure",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruined_house",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/forge/biome_modifier/ruined_house_biome_modifier.json",
+          "src/main/java/net/mcreator/billysmod/world/features/RuinedHouseFeature.java"
         ]
       },
       "path": "~/Desert Dimension"
@@ -1640,33 +1821,41 @@
       "item.billysmod.topaz_hoe": "Topaz Hoe",
       "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
       "item.billysmod.jade_axe": "Jade Axe",
+      "block.billysmod.desert_fence_gate": "Desert Fence Gate",
       "item.billysmod.rubi_armor_boots": "Ruby Boots",
       "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
       "item.billysmod.copper_axe": "Copper Axe",
       "biome.billysmod.desert_dimension_biome": "Desert Dimension Biome",
       "block.billysmod.wire": "Wire",
       "item.billysmod.jade_shovel": "Jade Shovel",
+      "block.billysmod.desert_button": "Desert Button",
       "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
       "item.billysmod.jade": "Jade",
       "item.billysmod.wooden_armor_boots": "Wooden Boots",
       "item.billysmod.copper_armor_boots": "Copper Boots",
       "item.billysmod.copper_armor_helmet": "Copper Helmet",
       "item.billysmod.copper_shovel": "Copper Shovel",
+      "block.billysmod.desert_pressure_plate": "Desert Pressure Plate",
       "item.billysmod.jade_pickaxe": "Jade Pickaxe",
       "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
       "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
       "item.billysmod.emerald_sword": "Emerald Sword",
       "item.billysmod.rubi_axe": "Ruby Axe",
+      "block.billysmod.desert_log": "Desert Log",
       "block.billysmod.jade_ore": "Jade Ore",
       "item.billysmod.copper_armor_leggings": "Copper Leggings",
+      "block.billysmod.desert_wood": "Desert Wood",
       "block.billysmod.jade_block": "Block of Jade",
+      "block.billysmod.desert_slab": "Desert Slab",
       "item.billysmod.emerald_hoe": "Emerald Hoe",
       "item.billysmod.jade_hoe": "Jade Hoe",
       "item.billysmod.topaz_armor_chestplate": "Topaz Chestplate",
       "item.billysmod.jade_armor_boots": "Jade Boots",
       "item.billysmod.rubi_sword": "Ruby Sword",
       "item.billysmod.rubi_armor_chestplate": "Ruby Chestplate",
+      "block.billysmod.desert_fence": "Desert Fence",
       "item.billysmod.emerald_armor_leggings": "Emerald Leggings",
+      "block.billysmod.desert_leaves": "Desert Leaves",
       "item.billysmod.ruby": "Ruby",
       "block.billysmod.topaz_block": "Block of Topaz",
       "item.billysmod.rubi_hoe": "Ruby Hoe",
@@ -1677,8 +1866,10 @@
       "item.billysmod.wooden_armor_helmet": "Wooden Helmet",
       "item.billysmod.topaz_armor_helmet": "Topaz Helmet",
       "block.billysmod.ruby_ore": "Ruby Ore",
+      "block.billysmod.desert_stairs": "Desert Stairs",
       "item.billysmod.topaz_axe": "Topaz Axe",
       "item.billysmod.emerald_armor_chestplate": "Emerald Chestplate",
+      "block.billysmod.desert_planks": "Desert Planks",
       "item.billysmod.the_frozen_dimension": "The Frozen Orb",
       "item.billysmod.emerald_shovel": "Emerald Shovel",
       "item.billysmod.jade_sword": "Jade Sword",
@@ -1734,6 +1925,15 @@
       },
       {
         "name": "Desert Dimension",
+        "children": [
+          {
+            "name": "Wood",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Loot chest",
         "children": []
       }
     ]

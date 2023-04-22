@@ -30,7 +30,7 @@ public class RubiSwordItem extends SwordItem {
 			}
 
 			public int getEnchantmentValue() {
-				return 140;
+				return 20;
 			}
 
 			public Ingredient getRepairIngredient() {
