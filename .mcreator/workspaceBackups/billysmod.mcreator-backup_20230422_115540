@@ -4327,6 +4327,26 @@
         ]
       },
       "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "Quicksand",
+      "type": "fluid",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quicksand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/block/QuicksandBlock.java",
+          "src/main/java/net/mcreator/billysmod/fluid/types/QuicksandFluidType.java",
+          "src/main/resources/assets/billysmod/models/block/quicksand.json",
+          "src/main/resources/assets/billysmod/blockstates/quicksand.json",
+          "src/main/java/net/mcreator/billysmod/item/QuicksandItem.java",
+          "src/main/resources/assets/billysmod/models/item/quicksand_bucket.json",
+          "src/main/java/net/mcreator/billysmod/fluid/QuicksandFluid.java"
+        ]
+      },
+      "path": "~/Desert Dimension"
     }
   ],
   "variable_elements": [],
@@ -4395,6 +4415,7 @@
       "item.billysmod.topaz_axe": "Topaz Axe",
       "item.billysmod.emerald_armor_chestplate": "Emerald Chestplate",
       "block.billysmod.desert_planks": "Desert Planks",
+      "item.billysmod.quicksand_bucket": "Quicksand Bucket",
       "item.billysmod.sapphire_armor_chestplate": "Sapphire Chestplate",
       "item.billysmod.emerald_shovel": "Emerald Shovel",
       "item.billysmod.blue_topaz_axe": "BlueTopaz Axe",
@@ -4415,6 +4436,7 @@
       "item.billysmod.alunimium_armor_leggings": "Alunimium Leggings",
       "item.billysmod.rubi_shovel": "Ruby Shovel",
       "block.billysmod.alunimium_ore": "Alunimium Ore",
+      "block.billysmod.quicksand": "Quicksand",
       "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
       "item.billysmod.peridot_sword": "Peridot Sword",
       "item.billysmod.jade_axe": "Jade Axe",
@@ -4484,6 +4506,7 @@
       "item.billysmod.alunimium_ingot": "Alunimium",
       "item.billysmod.aquamarine_armor_leggings": "Aquamarine Leggings",
       "item.billysmod.blue_topaz_armor_leggings": "BlueTopaz Leggings",
+      "fluid.billysmod.quicksand": "Quicksand",
       "item.billysmod.topaz_armor_leggings": "Topaz Leggings",
       "item.billysmod.citrene_pickaxe": "Citrene Pickaxe",
       "item.billysmod.rubi_pickaxe": "Ruby Pickaxe",
@@ -4596,8 +4619,7 @@
     "modid": "billysmod",
     "modName": "Billy\u0027sMod",
     "version": "1.0.0",
-    "author": "lucanator, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "lucanator, predsfan2",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -4606,7 +4628,6 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.billysmod",
     "lockBaseModFiles": false
   },

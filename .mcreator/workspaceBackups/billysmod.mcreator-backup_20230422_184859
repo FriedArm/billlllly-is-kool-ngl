@@ -3083,6 +3083,7 @@
     {
       "name": "Sapphire",
       "type": "item",
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire",
@@ -3097,6 +3098,7 @@
     {
       "name": "SapphireOre",
       "type": "block",
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore",
@@ -3115,6 +3117,7 @@
     {
       "name": "SapphireBlock",
       "type": "block",
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_block",
@@ -3131,6 +3134,7 @@
     {
       "name": "SapphireOreBlockRecipe",
       "type": "recipe",
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore_block_recipe",
@@ -3144,6 +3148,7 @@
     {
       "name": "SapphireBlockOreRecipe",
       "type": "recipe",
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_block_ore_recipe",
@@ -3157,6 +3162,7 @@
     {
       "name": "SapphireOreSmelting",
       "type": "recipe",
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore_smelting",
@@ -3170,6 +3176,7 @@
     {
       "name": "SapphirePickaxe",
       "type": "tool",
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_pickaxe",
@@ -3184,6 +3191,7 @@
     {
       "name": "SapphireAxe",
       "type": "tool",
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_axe",
@@ -3198,6 +3206,7 @@
     {
       "name": "SapphireSword",
       "type": "tool",
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_sword",
@@ -3212,6 +3221,7 @@
     {
       "name": "SapphireShovel",
       "type": "tool",
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_shovel",
@@ -3226,6 +3236,7 @@
     {
       "name": "SapphireHoe",
       "type": "tool",
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_hoe",
@@ -3240,6 +3251,7 @@
     {
       "name": "SapphirePickaxeRecipe",
       "type": "recipe",
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_pickaxe_recipe",
@@ -3253,6 +3265,7 @@
     {
       "name": "SapphireAxeRecipe",
       "type": "recipe",
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_axe_recipe",
@@ -3266,6 +3279,7 @@
     {
       "name": "SapphireSwordRecipe",
       "type": "recipe",
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_sword_recipe",
@@ -3279,6 +3293,7 @@
     {
       "name": "SapphireShovelRecipe",
       "type": "recipe",
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_shovel_recipe",
@@ -3292,6 +3307,7 @@
     {
       "name": "SapphireHoeRecipe",
       "type": "recipe",
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_hoe_recipe",
@@ -3305,6 +3321,7 @@
     {
       "name": "SapphireArmor",
       "type": "armor",
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor",
@@ -3322,6 +3339,7 @@
     {
       "name": "SapphireArmorHelmetRecipe",
       "type": "recipe",
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_helmet_recipe",
@@ -3335,6 +3353,7 @@
     {
       "name": "SapphireArmorBodyRecipe",
       "type": "recipe",
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_body_recipe",
@@ -3348,6 +3367,7 @@
     {
       "name": "SapphireArmorLeggingsRecipe",
       "type": "recipe",
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_leggings_recipe",
@@ -3361,6 +3381,7 @@
     {
       "name": "SapphireArmorBootsRecipe",
       "type": "recipe",
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_boots_recipe",
@@ -3370,6 +3391,962 @@
         ]
       },
       "path": "~/Desert Dimension/Ores/Sapphire"
+    },
+    {
+      "name": "Citrene",
+      "type": "item",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/CitreneItem.java",
+          "src/main/resources/assets/billysmod/models/item/citrene.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneOre",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/blockstates/citrene_ore.json",
+          "src/main/java/net/mcreator/billysmod/block/CitreneOreBlock.java",
+          "src/main/java/net/mcreator/billysmod/world/features/ores/CitreneOreFeature.java",
+          "src/main/resources/assets/billysmod/models/item/citrene_ore.json",
+          "src/main/resources/assets/billysmod/models/block/citrene_ore.json",
+          "src/main/resources/data/billysmod/forge/biome_modifier/citrene_ore_biome_modifier.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneBlock",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/block/citrene_block.json",
+          "src/main/resources/assets/billysmod/blockstates/citrene_block.json",
+          "src/main/java/net/mcreator/billysmod/block/CitreneBlockBlock.java",
+          "src/main/resources/assets/billysmod/models/item/citrene_block.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_ore_block_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_block_ore_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneOreSmelting",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_ore_smelting.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitrenePickaxe",
+      "type": "tool",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/citrene_pickaxe.json",
+          "src/main/java/net/mcreator/billysmod/item/CitrenePickaxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneAxe",
+      "type": "tool",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/citrene_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/CitreneAxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneSword",
+      "type": "tool",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/CitreneSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/citrene_sword.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneShovel",
+      "type": "tool",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/CitreneShovelItem.java",
+          "src/main/resources/assets/billysmod/models/item/citrene_shovel.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneHoe",
+      "type": "tool",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/citrene_hoe.json",
+          "src/main/java/net/mcreator/billysmod/item/CitreneHoeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitrenePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneAxeRecipe",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_axe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneSwordRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_sword_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneShovelRecipe",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneHoeRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneArmor",
+      "type": "armor",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/citrene_armor_chestplate.json",
+          "src/main/resources/assets/billysmod/models/item/citrene_armor_helmet.json",
+          "src/main/resources/assets/billysmod/models/item/citrene_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/citrene_armor_leggings.json",
+          "src/main/java/net/mcreator/billysmod/item/CitreneArmorItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_armor_body_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_armor_body_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "CitreneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrene_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/citrene_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Citrine"
+    },
+    {
+      "name": "BlueTopaz",
+      "type": "item",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazItem.java",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazOre",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/forge/biome_modifier/blue_topaz_ore_biome_modifier.json",
+          "src/main/java/net/mcreator/billysmod/world/features/ores/BlueTopazOreFeature.java",
+          "src/main/java/net/mcreator/billysmod/block/BlueTopazOreBlock.java",
+          "src/main/resources/assets/billysmod/blockstates/blue_topaz_ore.json",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_ore.json",
+          "src/main/resources/assets/billysmod/models/block/blue_topaz_ore.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazBlock",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_block.json",
+          "src/main/java/net/mcreator/billysmod/block/BlueTopazBlockBlock.java",
+          "src/main/resources/assets/billysmod/models/block/blue_topaz_block.json",
+          "src/main/resources/assets/billysmod/blockstates/blue_topaz_block.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_ore_block_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_block_ore_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazOreSmelting",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_ore_smelting.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazPickaxe",
+      "type": "tool",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_pickaxe.json",
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazPickaxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazAxe",
+      "type": "tool",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazAxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazSword",
+      "type": "tool",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_sword.json",
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazSwordItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazShovel",
+      "type": "tool",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_shovel.json",
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazShovelItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazHoe",
+      "type": "tool",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_hoe.json",
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazHoeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazAxeRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_axe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazSwordRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_sword_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazShovelRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazHoeRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazArmor",
+      "type": "armor",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/BlueTopazArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_armor_chestplate.json",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_armor_helmet.json",
+          "src/main/resources/assets/billysmod/models/item/blue_topaz_armor_leggings.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_armor_body_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_armor_body_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "BlueTopazArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_topaz_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/blue_topaz_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Blue Topaz"
+    },
+    {
+      "name": "AlunimiumIngot",
+      "type": "item",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumIngotItem.java",
+          "src/main/resources/assets/billysmod/models/item/alunimium_ingot.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumOre",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/block/alunimium_ore.json",
+          "src/main/resources/assets/billysmod/blockstates/alunimium_ore.json",
+          "src/main/java/net/mcreator/billysmod/world/features/ores/AlunimiumOreFeature.java",
+          "src/main/resources/data/billysmod/forge/biome_modifier/alunimium_ore_biome_modifier.json",
+          "src/main/java/net/mcreator/billysmod/block/AlunimiumOreBlock.java",
+          "src/main/resources/assets/billysmod/models/item/alunimium_ore.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumBlock",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/blockstates/alunimium_block.json",
+          "src/main/java/net/mcreator/billysmod/block/AlunimiumBlockBlock.java",
+          "src/main/resources/assets/billysmod/models/item/alunimium_block.json",
+          "src/main/resources/assets/billysmod/models/block/alunimium_block.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_ore_block_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_block_ore_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumOreSmelting",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_ore_smelting.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumPickaxe",
+      "type": "tool",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/alunimium_pickaxe.json",
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumPickaxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumAxe",
+      "type": "tool",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/alunimium_axe.json",
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumAxeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumSword",
+      "type": "tool",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumSwordItem.java",
+          "src/main/resources/assets/billysmod/models/item/alunimium_sword.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumShovel",
+      "type": "tool",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/alunimium_shovel.json",
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumShovelItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumHoe",
+      "type": "tool",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/billysmod/models/item/alunimium_hoe.json",
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumHoeItem.java"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_axe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_sword_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumArmor",
+      "type": "armor",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/item/AlunimiumArmorItem.java",
+          "src/main/resources/assets/billysmod/models/item/alunimium_armor_boots.json",
+          "src/main/resources/assets/billysmod/models/item/alunimium_armor_leggings.json",
+          "src/main/resources/assets/billysmod/models/item/alunimium_armor_helmet.json",
+          "src/main/resources/assets/billysmod/models/item/alunimium_armor_chestplate.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_armor_body_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_armor_body_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "AlunimiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alunimium_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/recipes/alunimium_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Desert Dimension/Ores/Alunimium"
+    },
+    {
+      "name": "Quicksand",
+      "type": "fluid",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quicksand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/billysmod/block/QuicksandBlock.java",
+          "src/main/java/net/mcreator/billysmod/fluid/types/QuicksandFluidType.java",
+          "src/main/resources/assets/billysmod/models/block/quicksand.json",
+          "src/main/resources/assets/billysmod/blockstates/quicksand.json",
+          "src/main/java/net/mcreator/billysmod/item/QuicksandItem.java",
+          "src/main/resources/assets/billysmod/models/item/quicksand_bucket.json",
+          "src/main/java/net/mcreator/billysmod/fluid/QuicksandFluid.java"
+        ]
+      },
+      "path": "~/Desert Dimension"
     }
   ],
   "variable_elements": [],
@@ -3382,18 +4359,20 @@
       "item.billysmod.topaz_sword": "Topaz Sword",
       "item.billysmod.peridot_pickaxe": "Peridot Pickaxe",
       "item.billysmod.aquamarine_sword": "Aquamarine Sword",
-      "item.billysmod.jade_armor_leggings": "Jade Leggings",
+      "item.billysmod.blue_topaz": "BlueTopaz",
       "item.billysmod.topaz_hoe": "Topaz Hoe",
+      "item.billysmod.jade_armor_leggings": "Jade Leggings",
       "item.billysmod.sapphire": "Sapphire",
+      "block.billysmod.citrene_ore": "Citrene Ore",
       "block.billysmod.desert_fence_gate": "Desert Fence Gate",
       "item.billysmod.rubi_armor_boots": "Ruby Boots",
       "item.billysmod.titanium_ingot": "Titanium",
       "item.billysmod.rubi_armor_helmet": "Ruby Helmet",
       "block.billysmod.peridot_block": "Block of Peridot",
       "item.billysmod.copper_axe": "Copper Axe",
-      "item.billysmod.titanium_sword": "Titanium Sword",
-      "block.billysmod.wire": "Wire",
       "block.billysmod.sapphire_ore": "Sapphire Ore",
+      "block.billysmod.wire": "Wire",
+      "item.billysmod.titanium_sword": "Titanium Sword",
       "block.billysmod.aquamarine_ore": "Aquamarine Ore",
       "block.billysmod.desert_button": "Desert Button",
       "item.billysmod.jade": "Jade",
@@ -3402,13 +4381,16 @@
       "item.billysmod.copper_armor_boots": "Copper Boots",
       "item.billysmod.aquamarine_armor_helmet": "Aquamarine Helmet",
       "item.billysmod.copper_armor_helmet": "Copper Helmet",
+      "item.billysmod.alunimium_shovel": "Alunimium Shovel",
       "item.billysmod.copper_shovel": "Copper Shovel",
       "item.billysmod.peridot_shovel": "Peridot Shovel",
+      "item.billysmod.blue_topaz_shovel": "BlueTopaz Shovel",
       "itemGroup.tabbillys_mod": "Billys Mod",
       "block.billysmod.desert_pressure_plate": "Desert Pressure Plate",
       "item.billysmod.garnet": "Garnet",
       "item.billysmod.jade_pickaxe": "Jade Pickaxe",
       "item.billysmod.wooden_armor_leggings": "Wooden Leggings",
+      "item.billysmod.blue_topaz_armor_chestplate": "BlueTopaz Chestplate",
       "block.billysmod.desert_log": "Desert Log",
       "item.billysmod.sapphire_sword": "Sapphire Sword",
       "item.billysmod.copper_armor_leggings": "Copper Leggings",
@@ -3420,59 +4402,81 @@
       "block.billysmod.desert_fence": "Desert Fence",
       "item.billysmod.emerald_armor_leggings": "Emerald Leggings",
       "block.billysmod.desert_leaves": "Desert Leaves",
+      "item.billysmod.alunimium_sword": "Alunimium Sword",
       "block.billysmod.topaz_block": "Block of Topaz",
+      "item.billysmod.citrene": "Citrene",
       "item.billysmod.rubi_armor_leggings": "Ruby Leggings",
       "item.billysmod.copper_sword": "Copper Sword",
       "item.billysmod.titanium_armor_chestplate": "Titanium Chestplate",
       "item.billysmod.garnet_armor_leggings": "Garnet Leggings",
+      "item.billysmod.alunimium_hoe": "Alunimium Hoe",
       "item.billysmod.topaz_armor_helmet": "Topaz Helmet",
+      "item.billysmod.blue_topaz_hoe": "BlueTopaz Hoe",
       "item.billysmod.topaz_axe": "Topaz Axe",
       "item.billysmod.emerald_armor_chestplate": "Emerald Chestplate",
       "block.billysmod.desert_planks": "Desert Planks",
+      "item.billysmod.quicksand_bucket": "Quicksand Bucket",
       "item.billysmod.sapphire_armor_chestplate": "Sapphire Chestplate",
       "item.billysmod.emerald_shovel": "Emerald Shovel",
+      "item.billysmod.blue_topaz_axe": "BlueTopaz Axe",
       "item.billysmod.jade_sword": "Jade Sword",
       "item.billysmod.titanium_armor_leggings": "Titanium Leggings",
       "block.billysmod.garnet_block": "Block of Garnet",
+      "item.billysmod.citrene_armor_leggings": "Citrene Leggings",
       "item.billysmod.sapphire_armor_boots": "Sapphire Boots",
       "block.billysmod.aquamarine_block": "Block of Aquamarine",
       "item.billysmod.sapphire_armor_helmet": "Sapphire Helmet",
+      "item.billysmod.blue_topaz_sword": "BlueTopaz Sword",
       "item.billysmod.jade_armor_helmet": "Jade Helmet",
       "item.billysmod.jade_armor_chestplate": "Jade Chestplate",
       "block.billysmod.ruby_block": "Block of Ruby",
       "item.billysmod.topaz_shovel": "Topaz Shovel",
       "item.billysmod.copper_pickaxe": "Copper Pickaxe",
       "item.billysmod.titanium_pickaxe": "Titanium Pickaxe",
+      "item.billysmod.alunimium_armor_leggings": "Alunimium Leggings",
       "item.billysmod.rubi_shovel": "Ruby Shovel",
+      "block.billysmod.alunimium_ore": "Alunimium Ore",
+      "block.billysmod.quicksand": "Quicksand",
       "item.billysmod.emerald_pick_axe": "Emerald Pick Axe",
       "item.billysmod.peridot_sword": "Peridot Sword",
       "item.billysmod.jade_axe": "Jade Axe",
+      "item.billysmod.alunimium_armor_boots": "Alunimium Boots",
       "item.billysmod.garnet_armor_chestplate": "Garnet Chestplate",
       "item.billysmod.sapphire_armor_leggings": "Sapphire Leggings",
+      "block.billysmod.citrene_block": "Block of Citrene",
       "biome.billysmod.desert_dimension_biome": "Desert Dimension Biome",
       "block.billysmod.garnet_ore": "Garnet Ore",
       "item.billysmod.titanium_hoe": "Titanium Hoe",
       "item.billysmod.jade_shovel": "Jade Shovel",
       "item.billysmod.titanium_armor_boots": "Titanium Boots",
       "item.billysmod.sapphire_hoe": "Sapphire Hoe",
+      "block.billysmod.blue_topaz_ore": "BlueTopaz Ore",
       "item.billysmod.emerald_armor_helmet": "Emerald Helmet",
       "item.billysmod.aquamarine_armor_chestplate": "Aquamarine Chestplate",
       "item.billysmod.garnet_shovel": "Garnet Shovel",
       "item.billysmod.aquamarine_pickaxe": "Aquamarine Pickaxe",
+      "item.billysmod.citrene_shovel": "Citrene Shovel",
       "item.billysmod.peridot": "Peridot",
+      "item.billysmod.alunimium_pickaxe": "Alunimium Pickaxe",
+      "item.billysmod.alunimium_axe": "Alunimium Axe",
       "item.billysmod.peridot_armor_leggings": "Peridot Leggings",
       "item.billysmod.titanium_axe": "Titanium Axe",
+      "item.billysmod.citrene_hoe": "Citrene Hoe",
       "item.billysmod.garnet_hoe": "Garnet Hoe",
       "item.billysmod.sapphire_pickaxe": "Sapphire Pickaxe",
       "item.billysmod.topaz_pickaxe": "Topaz Pickaxe",
+      "item.billysmod.blue_topaz_pickaxe": "BlueTopaz Pickaxe",
       "item.billysmod.rubi_axe": "Ruby Axe",
       "item.billysmod.emerald_sword": "Emerald Sword",
       "block.billysmod.jade_ore": "Jade Ore",
+      "item.billysmod.blue_topaz_armor_boots": "BlueTopaz Boots",
       "block.billysmod.sapphire_block": "Block of Sapphire",
       "block.billysmod.jade_block": "Block of Jade",
       "block.billysmod.desert_slab": "Desert Slab",
       "item.billysmod.garnet_armor_boots": "Garnet Boots",
+      "item.billysmod.citrene_armor_chestplate": "Citrene Chestplate",
       "item.billysmod.jade_hoe": "Jade Hoe",
+      "block.billysmod.alunimium_block": "Block of Alunimium",
       "item.billysmod.peridot_hoe": "Peridot Hoe",
       "item.billysmod.jade_armor_boots": "Jade Boots",
       "item.billysmod.aquamarine_shovel": "Aquamarine Shovel",
@@ -3488,6 +4492,7 @@
       "item.billysmod.aquamarine_hoe": "Aquamarine Hoe",
       "item.billysmod.peridot_armor_helmet": "Peridot Helmet",
       "item.billysmod.wooden_armor_helmet": "Wooden Helmet",
+      "item.billysmod.citrene_armor_helmet": "Citrene Helmet",
       "item.billysmod.titanium_armor_helmet": "Titanium Helmet",
       "block.billysmod.ruby_ore": "Ruby Ore",
       "block.billysmod.desert_stairs": "Desert Stairs",
@@ -3496,16 +4501,27 @@
       "block.billysmod.titanium_block": "Block of Titanium",
       "item.billysmod.the_frozen_dimension": "The Frozen Orb",
       "item.billysmod.garnet_armor_helmet": "Garnet Helmet",
+      "item.billysmod.alunimium_armor_helmet": "Alunimium Helmet",
       "item.billysmod.aquamarine_armor_boots": "Aquamarine Boots",
+      "item.billysmod.alunimium_ingot": "Alunimium",
       "item.billysmod.aquamarine_armor_leggings": "Aquamarine Leggings",
+      "item.billysmod.blue_topaz_armor_leggings": "BlueTopaz Leggings",
+      "fluid.billysmod.quicksand": "Quicksand",
       "item.billysmod.topaz_armor_leggings": "Topaz Leggings",
+      "item.billysmod.citrene_pickaxe": "Citrene Pickaxe",
       "item.billysmod.rubi_pickaxe": "Ruby Pickaxe",
+      "item.billysmod.citrene_sword": "Citrene Sword",
       "item.billysmod.peridot_armor_boots": "Peridot Boots",
+      "item.billysmod.citrene_armor_boots": "Citrene Boots",
       "item.billysmod.wooden_armor_chestplate": "Wooden Chestplate",
+      "block.billysmod.blue_topaz_block": "Block of BlueTopaz",
       "item.billysmod.topaz_armor_boots": "Topaz Boots",
+      "item.billysmod.alunimium_armor_chestplate": "Alunimium Chestplate",
       "item.billysmod.desert_dimension": "Melted Orb",
+      "item.billysmod.blue_topaz_armor_helmet": "BlueTopaz Helmet",
       "item.billysmod.titanium_shovel": "Titanium Shovel",
       "item.billysmod.topaz": "Topaz",
+      "item.billysmod.citrene_axe": "Citrene Axe",
       "biome.billysmod.frozen_biome": "Frozen Biome",
       "item.billysmod.copper_armor_chestplate": "Copper Chestplate",
       "item.billysmod.garnet_axe": "Garnet Axe",
@@ -3582,10 +4598,6 @@
                 "children": []
               },
               {
-                "name": "Opal",
-                "children": []
-              },
-              {
                 "name": "Citrine",
                 "children": []
               },
@@ -3607,8 +4619,7 @@
     "modid": "billysmod",
     "modName": "Billy\u0027sMod",
     "version": "1.0.0",
-    "author": "lucanator, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "lucanator, predsfan2",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -3617,7 +4628,6 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.billysmod",
     "lockBaseModFiles": false
   },

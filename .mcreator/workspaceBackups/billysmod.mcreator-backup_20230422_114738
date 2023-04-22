@@ -4347,19 +4347,6 @@
         ]
       },
       "path": "~/Desert Dimension"
-    },
-    {
-      "name": "DesertDimensionQuicksand",
-      "type": "biome",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "desert_dimension_quicksand",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/billysmod/world/biome/DesertDimensionQuicksandBiome.java"
-        ]
-      },
-      "path": "~/Desert Dimension"
     }
   ],
   "variable_elements": [],
@@ -4492,7 +4479,6 @@
       "block.billysmod.alunimium_block": "Block of Alunimium",
       "item.billysmod.peridot_hoe": "Peridot Hoe",
       "item.billysmod.jade_armor_boots": "Jade Boots",
-      "biome.billysmod.desert_dimension_quicksand": "Desert Dimension Biome",
       "item.billysmod.aquamarine_shovel": "Aquamarine Shovel",
       "item.billysmod.ruby": "Ruby",
       "item.billysmod.rubi_hoe": "Ruby Hoe",
@@ -4633,8 +4619,7 @@
     "modid": "billysmod",
     "modName": "Billy\u0027sMod",
     "version": "1.0.0",
-    "author": "lucanator, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "lucanator, predsfan2",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -4643,7 +4628,6 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.billysmod",
     "lockBaseModFiles": false
   },
