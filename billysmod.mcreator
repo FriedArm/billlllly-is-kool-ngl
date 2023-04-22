@@ -1599,21 +1599,6 @@
       "path": "~/Desert Dimension"
     },
     {
-      "name": "RuinedHouse",
-      "type": "structure",
-      "sortid": 110,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ruined_house",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/billysmod/forge/biome_modifier/ruined_house_biome_modifier.json",
-          "src/main/java/net/mcreator/billysmod/world/features/RuinedHouseFeature.java"
-        ]
-      },
-      "path": "~/Desert Dimension"
-    },
-    {
       "name": "RuinedHouseLootChest",
       "type": "loottable",
       "sortid": 111,
@@ -1805,6 +1790,21 @@
       "locked_code": false,
       "registry_name": "desert_stick_recipe",
       "path": "~/Desert Dimension/Wood"
+    },
+    {
+      "name": "RuinedHouse",
+      "type": "structure",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruined_house",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/billysmod/forge/biome_modifier/ruined_house_biome_modifier.json",
+          "src/main/java/net/mcreator/billysmod/world/features/RuinedHouseFeature.java"
+        ]
+      },
+      "path": "~/Desert Dimension"
     }
   ],
   "variable_elements": [],
