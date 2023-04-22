@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "billysmod:jade_block"
+    }
+  ],
+  "result": {
+    "item": "billysmod:jade",
+    "count": 9
+  }
+}

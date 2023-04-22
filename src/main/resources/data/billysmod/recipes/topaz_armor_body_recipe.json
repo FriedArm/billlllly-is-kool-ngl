@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:topaz"
+    },
+    "2": {
+      "item": "billysmod:topaz"
+    },
+    "3": {
+      "item": "billysmod:topaz"
+    },
+    "4": {
+      "item": "billysmod:topaz"
+    },
+    "5": {
+      "item": "billysmod:topaz"
+    },
+    "6": {
+      "item": "billysmod:topaz"
+    },
+    "7": {
+      "item": "billysmod:topaz"
+    },
+    "8": {
+      "item": "billysmod:topaz"
+    }
+  },
+  "result": {
+    "item": "billysmod:topaz_armor_chestplate",
+    "count": 1
+  }
+}

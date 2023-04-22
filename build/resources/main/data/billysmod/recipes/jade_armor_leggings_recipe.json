@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:jade"
+    },
+    "1": {
+      "item": "billysmod:jade"
+    },
+    "2": {
+      "item": "billysmod:jade"
+    },
+    "3": {
+      "item": "billysmod:jade"
+    },
+    "5": {
+      "item": "billysmod:jade"
+    },
+    "6": {
+      "item": "billysmod:jade"
+    },
+    "8": {
+      "item": "billysmod:jade"
+    }
+  },
+  "result": {
+    "item": "billysmod:jade_armor_leggings",
+    "count": 1
+  }
+}

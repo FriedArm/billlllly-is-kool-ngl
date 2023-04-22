@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/rubby",
+    "particle": "billysmod:blocks/rubby"
+  },
+  "render_type": "solid"
+}

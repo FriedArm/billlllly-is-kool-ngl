@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:topaz"
+    },
+    "1": {
+      "item": "billysmod:topaz"
+    },
+    "2": {
+      "item": "billysmod:topaz"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "billysmod:topaz_pickaxe",
+    "count": 1
+  }
+}

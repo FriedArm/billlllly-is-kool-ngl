@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:ruby"
+    },
+    "1": {
+      "item": "billysmod:ruby"
+    },
+    "2": {
+      "item": "billysmod:ruby"
+    },
+    "3": {
+      "item": "billysmod:ruby"
+    },
+    "4": {
+      "item": "billysmod:ruby"
+    },
+    "5": {
+      "item": "billysmod:ruby"
+    },
+    "6": {
+      "item": "billysmod:ruby"
+    },
+    "7": {
+      "item": "billysmod:ruby"
+    },
+    "8": {
+      "item": "billysmod:ruby"
+    }
+  },
+  "result": {
+    "item": "billysmod:ruby_block",
+    "count": 1
+  }
+}

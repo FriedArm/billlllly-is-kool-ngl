@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "billysmod:ruby"
+    },
+    "2": {
+      "item": "billysmod:ruby"
+    },
+    "3": {
+      "item": "billysmod:ruby"
+    },
+    "5": {
+      "item": "billysmod:ruby"
+    }
+  },
+  "result": {
+    "item": "billysmod:rubi_armor_boots",
+    "count": 1
+  }
+}

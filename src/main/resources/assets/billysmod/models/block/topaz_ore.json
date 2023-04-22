@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "billysmod:blocks/topaz_ore",
+    "particle": "billysmod:blocks/topaz_ore"
+  },
+  "render_type": "solid"
+}
